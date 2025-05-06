@@ -76,36 +76,7 @@
       <div align="left">
         <img src="https://cdn-icons-png.flaticon.com/128/1082/1082603.png" width="16"/> OWASP ZAP & Burp Suite<br>
         <img src="https://cdn-icons-png.flaticon.com/128/1717/1717304.png" width="16"/> Load & stress testing<br>
-        <img src="https://cdn-icons-png.flaticon.com/128/616/616494.png" width="16"/> Vulnerability scans
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/4984/4984428.png" width="60"/><br>
-      <strong style="font-size: 20px;">🗄️ Test Data & Environments</strong><br><br>
-      <div align="left">
-        <img src="https://cdn-icons-png.flaticon.com/128/396/396050.png" width="16"/> Data masking & seeding<br>
-        <img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="16"/> Dockerized test envs<br>
-        <img src="https://cdn-icons-png.flaticon.com/128/4149/4149792.png" width="16"/> Cloud sandbox management
-      </div>
-    </td>
-    <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/1082/1082605.png" width="60"/><br>
-      <strong style="font-size: 20px;">🎯 Quality Strategy & Process</strong><br><br>
-      <div align="left">
-        <img src="https://cdn-icons-png.flaticon.com/128/3220/3220455.png" width="16"/> Shift-left & BDD/TDD<br>
-        <img src="https://cdn-icons-png.flaticon.com/128/2208/2208393.png" width="16"/> Risk-based test planning<br>
-        <img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="16"/> Compliance & audit readiness
-      </div>
-    </td>
-    <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/2921/2921222.png" width="60"/><br>
-      <strong style="font-size: 20px;">⚡ Performance Engineering</strong><br><br>
-      <div align="left">
-        <img src="https://cdn-icons-png.flaticon.com/128/4293/4293701.png" width="16"/> Throughput & latency metrics<br>
-        <img src="https://cdn-icons-png.flaticon.com/128/1082/1082643.png" width="16"/> Scalability validation<br>
-        <img src="https://cdn-icons-png.flaticon.com/128/3043/3043470.png" width="16"/> Bottleneck analysis
+        <img src="https://jmeter.apache.org/images/jmeter_square.png" width="16"/> JMeter: Performance & Load Testing
       </div>
     </td>
   </tr>
@@ -164,7 +135,9 @@
 
 ## 🗓️ Project Timeline
 
-<img src="https://raw.githubusercontent.com/daniyalwaris/daniyalwaris/main/assets/timeline.svg" alt="Project Timeline"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daniyalwaris/daniyalwaris/main/assets/timeline.svg" alt="Project Timeline"/>
+</p>
 
 ---
 
