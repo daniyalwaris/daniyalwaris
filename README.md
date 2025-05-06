@@ -156,10 +156,10 @@
     </td>
     <td align="center" valign="top">
       <a href="https://www.flaticon.com/free-icons/certificate" title="certificate icons">
-      <img src="https://cdn-icons-png.flaticon.com/128/1674/16747142.png" width="32"/>
+      <img src="https://cdn-icons-png.flaticon.com/128/1828/1828778.png" width="32"/>
       </a><br>
       <strong>Other Certifications</strong><br><br>
-      <div align="left">…
+      <div align="left">
         🧑‍🏫 LFS158: Introduction to Kubernetes (Apr 2025)<br>
         🏅 Certified Tester Foundation Level (CTFL) (Mar 2019)<br>
         ❌ Selenium WebDriver with C# (Udemy, Oct 2020)<br>
