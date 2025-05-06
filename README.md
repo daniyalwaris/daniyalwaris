@@ -87,44 +87,39 @@
 ## 🛠️ Skills & Tools
 
 ### 🧪 Test Automation Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Selenium-430098?logo=selenium&logoColor=white" alt="Selenium WebDriver"/>
-  <img src="https://img.shields.io/badge/Playwright-000000?logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/TestComplete-ff7b00?logo=testcomplete&logoColor=white" alt="TestComplete"/>
-  <img src="https://img.shields.io/badge/k6-00aaff?logo=k6&logoColor=white" alt="k6"/>
-</p>
+![Selenium](https://img.shields.io/badge/Selenium-430098?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)
+![k6](https://img.shields.io/badge/k6-00aaff?style=for-the-badge&logo=k6&logoColor=white)
+![TestComplete](https://img.shields.io/badge/TestComplete-ff7b00?style=for-the-badge&logo=testcomplete&logoColor=white)
 
 ### 💻 Languages & Scripting
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🚀 CI/CD & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-d24939?logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Azure_Pipelines-0078d4?logo=azurepipelines&logoColor=white" alt="Azure Pipelines"/>
-  <img src="https://img.shields.io/badge/GitLab_CI-fc6d26?logo=gitlab&logoColor=white" alt="GitLab CI"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</p>
+![Jenkins](https://img.shields.io/badge/Jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078d4?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📊 Monitoring & Reporting
-<p>
-  <img src="https://img.shields.io/badge/Grafana-f46800?logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Elastic_Stack-005571?logo=elastic&logoColor=white" alt="Elastic Stack"/>
-  <img src="https://img.shields.io/badge/TestRail-02569b?logo=testrail&logoColor=white" alt="TestRail"/>
-  <img src="https://img.shields.io/badge/JIRA-0052cc?logo=jira&logoColor=white" alt="JIRA"/>
-</p>
+![Grafana](https://img.shields.io/badge/Grafana-f46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-02569b?style=for-the-badge&logo=testrail&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052cc?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 🗄️ Databases & APIs
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Postman-ff6c37?logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" alt="Swagger"/>  
-</p>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -139,31 +134,47 @@
 
 <table>
   <tr>
-    <td align="left" valign="top" width="50%">
-      🍕 Become a Test Automation Engineer (Apr 2022)<br>
-      🏷️ API Test Automation with SoapUI (Jul 2019)<br>
-      ⚙️ Agile Foundations (Jul 2019)<br>
-      🖋️ Become a Software Tester (Jul 2019)<br>
-      🐍 Learning Selenium (Jul 2019)<br>
-      🧩 Behavior-Driven Development (Jul 2019)<br>
-      🖼️ JMeter: Performance and Load Testing (Jul 2019)<br>
-      ☕ Java: Testing with JUnit (Jul 2019)<br>
-      ⚽ Scripting for Testers (Jul 2019)<br>
-      📋 Scrum: The Basics (Jul 2019)<br>
-      🧙 Selenium Essential Training (Jul 2019)<br>
-      🕵️ Agile Testing (Jun 2019)<br>
-      🎯 Project Management Foundations: Quality (Jun 2019)<br>
-      ⚙️ Test Automation Foundations (Jun 2019)
+    <td align="center" valign="top">
+      <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="32"/><br>
+      <strong>LinkedIn Learning</strong><br><br>
+      <div align="left">
+        🍕 Become a Test Automation Engineer (Apr 2022)<br>
+        🏷️ API Test Automation with SoapUI (Jul 2019)<br>
+        ⚙️ Agile Foundations (Jul 2019)<br>
+        🖋️ Become a Software Tester (Jul 2019)<br>
+        🐍 Learning Selenium (Jul 2019)<br>
+        🧩 Behavior-Driven Development (Jul 2019)<br>
+        🖼️ JMeter: Performance and Load Testing (Jul 2019)<br>
+        ☕ Java: Testing with JUnit (Jul 2019)<br>
+        ⚽ Scripting for Testers (Jul 2019)<br>
+        📋 Scrum: The Basics (Jul 2019)<br>
+        🧙 Selenium Essential Training (Jul 2019)<br>
+        🕵️ Agile Testing (Jun 2019)<br>
+        🎯 Project Management Foundations: Quality (Jun 2019)<br>
+        ⚙️ Test Automation Foundations (Jun 2019)
+      </div>
     </td>
-    <td align="left" valign="top" width="50%">
-      🧑‍🏫 LFS158: Introduction to Kubernetes (Apr 2025)<br>
-      🏅 Certified Tester Foundation Level (CTFL) (Mar 2019)<br>
-      ❌ Selenium WebDriver with C# (Udemy, Oct 2020)<br>
-      📄 Scrums for Professional (May 2016)<br>
-      😎 Scrum Fundamentals Certified (SFC) (Apr 2019 – Apr 2022)
+    <td align="center" valign="top">
+      <img src="https://cdn-icons-png.flaticon.com/128/2591/2591502.png" width="32"/><br>
+      <strong>Other Certifications</strong><br><br>
+      <div align="left">
+        🧑‍🏫 LFS158: Introduction to Kubernetes (Apr 2025)<br>
+        🏅 Certified Tester Foundation Level (CTFL) (Mar 2019)<br>
+        ❌ Selenium WebDriver with C# (Udemy, Oct 2020)<br>
+        📄 Scrums for Professional (May 2016)<br>
+        😎 Scrum Fundamentals Certified (SFC) (Apr 2019 – Apr 2022)
+      </div>
     </td>
   </tr>
 </table>
+
+---
+
+## 🗓️ Project Timeline
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daniyalwaris/daniyalwaris/main/assets/timeline.svg" alt="Project Timeline"/>
+</p>
 
 ---
 
