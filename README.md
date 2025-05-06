@@ -131,7 +131,7 @@
 ## 📊 GitHub-Readme-Stats Extras
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniyalwaris&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalwaris&theme=radical" alt="Daniyal GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalwaris&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
