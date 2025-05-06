@@ -17,9 +17,9 @@
 
 ## 🚀 About Me
 
-- ISTQB Foundation Level Certified (CTFL) Test Specialist with 6+ years in test automation and validation
-- Expert in building scalable automation frameworks for Web, Mobile, Desktop & Embedded platforms
-- Passionate about delivering high-quality, reliable systems through end-to-end testing and continuous integration
+- ISTQB Foundation Level Certified (CTFL) Test Specialist with 6+ years in test automation and validation  
+- Expert in building scalable automation frameworks for Web, Mobile, Desktop & Embedded platforms  
+- Passionate about delivering high-quality, reliable systems through end-to-end testing and continuous integration  
 
 ---
 
@@ -31,27 +31,27 @@
       <img src="https://cdn-icons-png.flaticon.com/128/3590/3590556.png" width="60"/><br>
       <strong style="font-size: 20px;">🧪 Test Automation</strong><br><br>
       <div align="left">
-        - Selenium & WebDriver<br>
-        - Playwright (TypeScript)<br>
-        - k6 & TestComplete
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968544.png" width="16"/> Selenium & WebDriver<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/2885/2885278.png" width="16"/> Playwright (TypeScript)<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/3642/3642967.png" width="16"/> k6 & TestComplete
       </div>
     </td>
     <td align="center" width="320" height="220">
       <img src="https://cdn-icons-png.flaticon.com/128/2711/2711401.png" width="60"/><br>
       <strong style="font-size: 20px;">🔍 Manual & Exploratory Testing</strong><br><br>
       <div align="left">
-        - Test case design & execution<br>
-        - Exploratory sessions<br>
-        - UAT & hardware integration
+        <img src="https://cdn-icons-png.flaticon.com/128/3064/3064197.png" width="16"/> Test case design & execution<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/1112/1112505.png" width="16"/> Exploratory sessions<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/1011/1011803.png" width="16"/> UAT & hardware integration
       </div>
     </td>
     <td align="center" width="320" height="220">
       <img src="https://cdn-icons-png.flaticon.com/128/833/833524.png" width="60"/><br>
       <strong style="font-size: 20px;">🔄 CI/CD Integration</strong><br><br>
       <div align="left">
-        - Jenkins & Azure Pipelines<br>
-        - GitLab CI/CD<br>
-        - Parallelized test runs
+        <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="16"/> Jenkins & Azure Pipelines<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968874.png" width="16"/> GitLab CI/CD<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/1082/1082601.png" width="16"/> Parallelized test runs
       </div>
     </td>
   </tr>
@@ -60,27 +60,27 @@
       <img src="https://cdn-icons-png.flaticon.com/128/1170/1170576.png" width="60"/><br>
       <strong style="font-size: 20px;">🔗 API & Integration Testing</strong><br><br>
       <div align="left">
-        - REST/GraphQL validation<br>
-        - Contract testing (Pact)<br>
-        - Mock servers & stubs
+        <img src="https://cdn-icons-png.flaticon.com/128/1083/1083622.png" width="16"/> REST/GraphQL validation<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/2907/2907766.png" width="16"/> Contract testing (Pact)<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/189/189693.png" width="16"/> Mock servers & stubs
       </div>
     </td>
     <td align="center" width="320" height="220">
       <img src="https://cdn-icons-png.flaticon.com/128/3176/3176295.png" width="60"/><br>
       <strong style="font-size: 20px;">📈 Metrics & Monitoring</strong><br><br>
       <div align="left">
-        - Grafana & Elastic Stack<br>
-        - TestRail & JIRA dashboards<br>
-        - Reliability & stability reports
+        <img src="https://cdn-icons-png.flaticon.com/128/1167/1167223.png" width="16"/> Grafana & Elastic Stack<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/2043/2043203.png" width="16"/> TestRail & JIRA dashboards<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/2913/2913508.png" width="16"/> Reliability & stability reports
       </div>
     </td>
     <td align="center" width="320" height="220">
       <img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="60"/><br>
       <strong style="font-size: 20px;">🔒 Security & Performance</strong><br><br>
       <div align="left">
-        - OWASP ZAP & Burp Suite<br>
-        - Load & stress testing<br>
-        - Vulnerability scans
+        <img src="https://cdn-icons-png.flaticon.com/128/1082/1082603.png" width="16"/> OWASP ZAP & Burp Suite<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/2306/2306433.png" width="16"/> Load & stress testing<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/616/616494.png" width="16"/> Vulnerability scans
       </div>
     </td>
   </tr>
@@ -89,27 +89,27 @@
       <img src="https://cdn-icons-png.flaticon.com/128/4984/4984428.png" width="60"/><br>
       <strong style="font-size: 20px;">🗄️ Test Data & Environments</strong><br><br>
       <div align="left">
-        - Data masking & seeding<br>
-        - Dockerized test envs<br>
-        - Cloud sandbox management
+        <img src="https://cdn-icons-png.flaticon.com/128/396/396050.png" width="16"/> Data masking & seeding<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="16"/> Dockerized test envs<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/4149/4149792.png" width="16"/> Cloud sandbox management
       </div>
     </td>
     <td align="center" width="320" height="220">
       <img src="https://cdn-icons-png.flaticon.com/128/1082/1082605.png" width="60"/><br>
       <strong style="font-size: 20px;">🎯 Quality Strategy & Process</strong><br><br>
       <div align="left">
-        - Shift-left & BDD/TDD<br>
-        - Risk-based test planning<br>
-        - Compliance & audit readiness
+        <img src="https://cdn-icons-png.flaticon.com/128/3220/3220455.png" width="16"/> Shift-left & BDD/TDD<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/2208/2208393.png" width="16"/> Risk-based test planning<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="16"/> Compliance & audit readiness
       </div>
     </td>
     <td align="center" width="320" height="220">
       <img src="https://cdn-icons-png.flaticon.com/128/2921/2921222.png" width="60"/><br>
       <strong style="font-size: 20px;">⚡ Performance Engineering</strong><br><br>
       <div align="left">
-        - Throughput & latency metrics<br>
-        - Scalability validation<br>
-        - Bottleneck analysis
+        <img src="https://cdn-icons-png.flaticon.com/128/4293/4293701.png" width="16"/> Throughput & latency metrics<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/1082/1082643.png" width="16"/> Scalability validation<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/3043/3043470.png" width="16"/> Bottleneck analysis
       </div>
     </td>
   </tr>
@@ -156,7 +156,7 @@
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Postman-ff6c37?logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" alt="Swagger"/>  
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white" alt="Swagger"/>
 </p>
 
 ## 📂 Pinned Repositories
