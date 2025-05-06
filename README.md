@@ -3,10 +3,6 @@
   QA Engineer ensuring delivery of high-reliability software and systems.
 -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYy85TYpMCpKVb2/giphy.gif" alt="Testing Animation" width="600"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm Daniyal Waris!</h1>
 <p align="center">
   <em>QA Engineer | ISTQB-Certified Test Specialist | Automation & Integration Testing</em><br/>
