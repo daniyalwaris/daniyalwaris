@@ -155,7 +155,8 @@
       </div>
     </td>
     <td align="center" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/128/2591/2591502.png" width="32"/><br>
+    
+      <img src="https://cdn-icons-png.flaticon.com/128/1674/16747142.png" width="32"/><br>
       <strong>Other Certifications</strong><br><br>
       <div align="left">
         🧑‍🏫 LFS158: Introduction to Kubernetes (Apr 2025)<br>
