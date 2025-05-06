@@ -3,10 +3,6 @@
   QA Engineer ensuring delivery of high-reliability software and systems.
 -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYy85TYpMCpKVb2/giphy.gif" alt="Testing Animation" width="600"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm Daniyal Waris!</h1>
 <p align="center">
   <em>QA Engineer | ISTQB-Certified Test Specialist | Automation & Integration Testing</em><br/>
@@ -140,7 +136,7 @@
         <img src="https://cdn-icons-png.flaticon.com/128/2590/2590045.png" width="16"/> Become a Software Tester (Jul 2019)<br>
         <img src="https://cdn-icons-png.flaticon.com/128/5968/5968544.png" width="16"/> Learning Selenium (Jul 2019)<br>
         <img src="https://cdn-icons-png.flaticon.com/128/3634/3634236.png" width="16"/> Behavior-Driven Development (Jul 2019)<br>
-        <img src="https://cdn-icons-png.flaticon.com/128/1717/1717304.png" width="16"/> JMeter: Performance and Load Testing (Jul 2019)<br>
+        <img src="https://jmeter.apache.org/images/jmeter.svg" width="16"/> JMeter: Performance and Load Testing (Jul 2019)<br>
         <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" width="16"/> Java: Testing with JUnit (Jul 2019)<br>
         <img src="https://cdn-icons-png.flaticon.com/128/861/861512.png" width="16"/> Scripting for Testers (Jul 2019)<br>
         <img src="https://cdn-icons-png.flaticon.com/128/942/942807.png" width="16"/> Scrum: The Basics (Jul 2019)<br>
