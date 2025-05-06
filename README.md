@@ -126,29 +126,11 @@
 
 ---
 
-## 🏆 Awards & Certifications
+## 🏆 Certifications
 
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919847.png" width="24"/> **LFS158: Introduction to Kubernetes**, The Linux Foundation (Apr 2025)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="24"/> **Become a Test Automation Engineer**, LinkedIn Learning (Apr 2022)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="24"/> **Selenium WebDriver with C#**, Udemy (Oct 2020)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/3422/3422619.png" width="24"/> **API Test Automation with SoapUI**, LinkedIn Learning (Jul 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/1581/1581447.png" width="24"/> **Agile Foundations**, LinkedIn Learning (Jul 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/825/825458.png" width="24"/> **Become a Software Tester**, LinkedIn Learning (Jul 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/3104/3104746.png" width="24"/> **Behavior-Driven Development**, LinkedIn Learning (Jul 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/1825/1825326.png" width="24"/> **JMeter: Performance and Load Testing**, LinkedIn Learning (Jul 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" width="24"/> **Java: Testing with JUnit**, LinkedIn Learning (Jul 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968544.png" width="24"/> **Learning Selenium**, LinkedIn Learning (Jul 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/3022/3022165.png" width="24"/> **Scripting for Testers**, LinkedIn Learning (Jul 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/942/942807.png" width="24"/> **Scrum: The Basics**, LinkedIn Learning (Jul 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="24"/> **Selenium Essential Training**, LinkedIn Learning (Jul 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/1544/1544412.png" width="24"/> **Agile Testing**, LinkedIn Learning (Jun 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/2951/2951137.png" width="24"/> **Project Management Foundations: Quality**, LinkedIn Learning (Jun 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/2917/2917991.png" width="24"/> **Test Automation Foundations**, LinkedIn Learning (Jun 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/1041/1041023.png" width="24"/> **Certified Tester Foundation Level (CTFL)**, ISTQB – International Software Testing Qualifications Board (Mar 2019)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/942/942807.png" width="24"/> **Scrums for Professional**, Akai Ideas (May 2016)<br>
-  <img src="https://cdn-icons-png.flaticon.com/128/5910/5910775.png" width="24"/> **Scrum Fundamentals Certified (SFC)**, SCRUMstudy (Apr 2019 – Apr 2022)
-</p>
+| <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="40"/><br>**LinkedIn Learning** | <img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="40"/><br>**Other Certifications** |
+|---|---|
+| - Become a Test Automation Engineer (Apr 2022)<br>- API Test Automation with SoapUI (Jul 2019)<br>- Agile Foundations (Jul 2019)<br>- Become a Software Tester (Jul 2019)<br>- Learning Selenium (Jul 2019)<br>- Behavior-Driven Development (Jul 2019)<br>- JMeter: Performance and Load Testing (Jul 2019)<br>- Java: Testing with JUnit (Jul 2019)<br>- Scripting for Testers (Jul 2019)<br>- Scrum: The Basics (Jul 2019)<br>- Selenium Essential Training (Jul 2019)<br>- Agile Testing (Jun 2019)<br>- Project Management Foundations: Quality (Jun 2019)<br>- Test Automation Foundations (Jun 2019) | - LFS158: Introduction to Kubernetes, The Linux Foundation (Apr 2025)<br>- Selenium WebDriver with C#, Udemy (Oct 2020)<br>- Certified Tester Foundation Level (CTFL), ISTQB (Mar 2019)<br>- Scrums for Professional, Akai Ideas (May 2016)<br>- Scrum Fundamentals Certified (SFC), SCRUMstudy (Apr 2019 – Apr 2022) |
 
 ---
 
