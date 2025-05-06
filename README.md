@@ -3,6 +3,10 @@
   QA Engineer ensuring delivery of high-reliability software and systems.
 -->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYy85TYpMCpKVb2/giphy.gif" alt="Testing Animation" width="600"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Daniyal Waris!</h1>
 <p align="center">
   <em>QA Engineer | ISTQB-Certified Test Specialist | Automation & Integration Testing</em><br/>
@@ -124,9 +128,26 @@
 
 ## 🏆 Awards & Certifications
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/190/190411.png" width="40"/><strong style="font-size: 18px;"> ISTQB Foundation Level (CTFL)</strong><br>
-  <img src="https://cdn-icons-png.flaticon.com/128/2331/2331970.png" width="40"/><strong style="font-size: 18px;"> Best QA Innovator 2023 (Initech Awards)</strong>
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/128/919/919847.png" width="24"/> **LFS158: Introduction to Kubernetes**, The Linux Foundation (Apr 2025)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="24"/> **Become a Test Automation Engineer**, LinkedIn Learning (Apr 2022)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="24"/> **Selenium WebDriver with C#**, Udemy (Oct 2020)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/3422/3422619.png" width="24"/> **API Test Automation with SoapUI**, LinkedIn Learning (Jul 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/1581/1581447.png" width="24"/> **Agile Foundations**, LinkedIn Learning (Jul 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/825/825458.png" width="24"/> **Become a Software Tester**, LinkedIn Learning (Jul 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/3104/3104746.png" width="24"/> **Behavior-Driven Development**, LinkedIn Learning (Jul 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/1825/1825326.png" width="24"/> **JMeter: Performance and Load Testing**, LinkedIn Learning (Jul 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" width="24"/> **Java: Testing with JUnit**, LinkedIn Learning (Jul 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968544.png" width="24"/> **Learning Selenium**, LinkedIn Learning (Jul 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/3022/3022165.png" width="24"/> **Scripting for Testers**, LinkedIn Learning (Jul 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/942/942807.png" width="24"/> **Scrum: The Basics**, LinkedIn Learning (Jul 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="24"/> **Selenium Essential Training**, LinkedIn Learning (Jul 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/1544/1544412.png" width="24"/> **Agile Testing**, LinkedIn Learning (Jun 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/2951/2951137.png" width="24"/> **Project Management Foundations: Quality**, LinkedIn Learning (Jun 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/2917/2917991.png" width="24"/> **Test Automation Foundations**, LinkedIn Learning (Jun 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/1041/1041023.png" width="24"/> **Certified Tester Foundation Level (CTFL)**, ISTQB – International Software Testing Qualifications Board (Mar 2019)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/942/942807.png" width="24"/> **Scrums for Professional**, Akai Ideas (May 2016)<br>
+  <img src="https://cdn-icons-png.flaticon.com/128/5910/5910775.png" width="24"/> **Scrum Fundamentals Certified (SFC)**, SCRUMstudy (Apr 2019 – Apr 2022)
 </p>
 
 ---
@@ -149,7 +170,7 @@
 
 ## ✨ Connect with Me
 
-<p align="center"width="100" height="100">
+<p align="center">
   <a href="https://linkedin.com/in/daniyalwaris" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:daniyalwaris92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
