@@ -133,15 +133,17 @@
 
 ---
 
+
 ## 📈 Skills & Progress Bars
 
-**TypeScript** <img src="https://progress-bar.dev/80/?title=TypeScript" alt="TypeScript 80%"/><br>
-**Selenium** <img src="https://progress-bar.dev/75/?title=Selenium" alt="Selenium 75%"/><br>
-**Playwright** <img src="https://progress-bar.dev/70/?title=Playwright" alt="Playwright 70%"/><br>
-**Docker** <img src="https://progress-bar.dev/60/?title=Docker" alt="Docker 60%"/><br>
-**Jenkins** <img src="https://progress-bar.dev/85/?title=Jenkins" alt="Jenkins 85%"/><br>
-
----
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="16"/> **TypeScript** <img src="https://progress-bar.dev/80/?title=TypeScript" alt="TypeScript 80%"/><br>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968544.png" width="16"/> **Selenium** <img src="https://progress-bar.dev/75/?title=Selenium" alt="Selenium 75%"/><br>
+<img src="https://cdn-icons-png.flaticon.com/128/2885/2885278.png" width="16"/> **Playwright** <img src="https://progress-bar.dev/70/?title=Playwright" alt="Playwright 70%"/><br>
+<img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="16"/> **Docker** <img src="https://progress-bar.dev/60/?title=Docker" alt="Docker 60%"/><br>
+<img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" width="16"/> **Java** <img src="https://progress-bar.dev/65/?title=Java" alt="Java 65%"/><br>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="16"/> **JavaScript** <img src="https://progress-bar.dev/85/?title=JavaScript" alt="JavaScript 85%"/><br>
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="16"/> **Python** <img src="https://progress-bar.dev/90/?title=Python" alt="Python 90%"/><br>
+<img src="https://cdn-icons-png.flaticon.com/128/2591/2591502.png" width="16"/> **JIRA** <img src="https://progress-bar.dev/70/?title=JIRA" alt="JIRA 70%"/><br>
 
 ## ✨ Connect with Me
 
