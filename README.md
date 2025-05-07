@@ -52,7 +52,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
       <img src="https://cdn-icons-png.flaticon.com/128/11518/11518711.png" width="60" alt="CI/CD Icon"/><br>
        <strong style="font-size: 20px;"> CI/CD & DevOps</strong><br><br>
       <div align="left">
-        <img src=" https://cdn-icons-png.flaticon.com/128/11676/11676420.png" width="20" alt="CICD Logo"/> <strong> Jenkins, Azure Pipelines, GitLab CI</strong><br>
+        <img src="https://cdn-icons-png.flaticon.com/128/11676/11676420.png" width="20" alt="CICD Logo"/> <strong> Jenkins, Azure Pipelines, GitLab CI</strong><br>
         <img src="https://cdn-icons-png.flaticon.com/128/12773/12773280.png" width="20" alt="TestReporting Logo"/> <strong> Test parallelization & reporting</strong><br>
         ✅ Shift-left quality practices
       </div>
