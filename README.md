@@ -30,8 +30,8 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 <table>
   <tr>
    <td align="center" width="320" height="220">
-    <img src="https://cdn-icons-png.flaticon.com/128/3590/3590556.png" width="60" alt="Automation Icon"/><br>
-    <strong>🧪 Test Automation</strong><br><br>
+    <img src="https://cdn-icons-png.flaticon.com/128/18573/18573703.png" width="60" alt="Automation Icon"/><br>
+     <strong style="font-size: 20px;">Test Automation</strong><br><br>
     <div align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="20" alt="Selenium Logo"/> <strong>Selenium WebDriver</strong><br>
     <img src="https://playwright.dev/img/playwright-logo.svg" width="20" alt="Playwright Logo"/> <strong>Playwright</strong><br>
@@ -41,7 +41,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 </td>
     <td align="center" width="320" height="220">
       <img src="https://cdn-icons-png.flaticon.com/128/2711/2711401.png" width="60" alt="Manual Testing Icon"/><br>
-      <strong>🔍 Manual & Exploratory Testing</strong><br><br>
+      <strong style="font-size: 20px;"> Manual & Exploratory Testing</strong><br><br>
       <div align="left">
         ✅ Test case design & execution<br>
         ✅ UAT & hardware testing<br>
@@ -50,7 +50,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
     </td>
     <td align="center" width="320" height="220">
       <img src="https://cdn-icons-png.flaticon.com/128/833/833524.png" width="60" alt="CI/CD Icon"/><br>
-      <strong>🔄 CI/CD & DevOps</strong><br><br>
+       <strong style="font-size: 20px;"> CI/CD & DevOps</strong><br><br>
       <div align="left">
         ✅ Jenkins, Azure Pipelines, GitLab CI<br>
         ✅ Test parallelization & reporting<br>
@@ -70,7 +70,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
     </td>
     <td align="center" width="320" height="220">
       <img src="https://cdn-icons-png.flaticon.com/128/3176/3176295.png" width="60" alt="Monitoring Icon"/><br>
-      <strong>📈 Metrics & Observability</strong><br><br>
+       <strong style="font-size: 20px;"> Metrics & Observability</strong><br><br>
       <div align="left">
         ✅ Grafana & Elastic Stack<br>
         ✅ JIRA, TestRail dashboards<br>
@@ -79,7 +79,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
     </td>
     <td align="center" width="320" height="220">
       <img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="60" alt="Security Icon"/><br>
-      <strong>🔒 Security & Performance</strong><br><br>
+      <strong style="font-size: 20px;"> Security & Performance</strong><br><br>
       <div align="left">
         ✅ OWASP ZAP & Burp Suite<br>
         ✅ JMeter, load/stress testing<br>
