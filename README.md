@@ -60,7 +60,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
   </tr>
   <tr>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/1170/1170576.png" width="60" alt="API Testing Icon"/><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/18889/18889881.png" width="60" alt="API Testing Icon"/><br>
       <strong>🔗 API & Integration Testing</strong><br><br>
       <div align="left">
         ✅ REST, GraphQL, Pact<br>
@@ -69,7 +69,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
       </div>
     </td>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/3176/3176295.png" width="60" alt="Monitoring Icon"/><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/15165/15165488.png" width="60" alt="Monitoring Icon"/><br>
        <strong style="font-size: 20px;"> Metrics & Observability</strong><br><br>
       <div align="left">
         ✅ Grafana & Elastic Stack<br>
