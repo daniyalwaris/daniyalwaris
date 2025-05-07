@@ -131,7 +131,6 @@ Here’s what I bring to the table:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalwaris&theme=radical" alt="Daniyal GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalwaris&layout=compact&theme=dark" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=daniyalwaris&theme=darkhub&row=1" />
   <img src="https://komarev.com/ghpvc/?username=daniyalwaris&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
