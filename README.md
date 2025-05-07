@@ -40,7 +40,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
   </div>
 </td>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/2711/2711401.png" width="60" alt="Manual Testing Icon"/><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/3281/3281329.png" width="60" alt="Manual Testing Icon"/><br>
       <strong style="font-size: 20px;"> Manual & Exploratory Testing</strong><br><br>
       <div align="left">
         ✅ Test case design & execution<br>
@@ -49,7 +49,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
       </div>
     </td>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/833/833524.png" width="60" alt="CI/CD Icon"/><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/11518/11518711.png" width="60" alt="CI/CD Icon"/><br>
        <strong style="font-size: 20px;"> CI/CD & DevOps</strong><br><br>
       <div align="left">
         ✅ Jenkins, Azure Pipelines, GitLab CI<br>
