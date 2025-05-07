@@ -44,17 +44,16 @@ From manual testing to complex test automation pipelines, I thrive on making sof
       <strong style="font-size: 20px;"> Manual & Exploratory Testing</strong><br><br>
       <div align="left">  
       <img src="https://cdn-icons-png.flaticon.com/128/8422/8422335.png" width="20" alt="Test case Logo"/> <strong>Test case design & execution</strong><br>
-      <img src="https://cdn-icons-png.flaticon.com/128/18594/18594543.png" width="20" alt="UAT Logo"/> <strong> User Acceptance testing sessions</strong><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/18594/18594543.png" width="20" alt="UAT Logo"/> <strong> User Acceptance testing and Exploratory sessions</strong><br>
       <img src="https://cdn-icons-png.flaticon.com/128/18954/18954451.png" width="20" alt="HarwareTesting Logo"/> <strong> Harware Testing</strong><br>
-        ✅ Exploratory sessions
       </div>
     </td>
     <td align="center" width="320" height="220">
       <img src="https://cdn-icons-png.flaticon.com/128/11518/11518711.png" width="60" alt="CI/CD Icon"/><br>
        <strong style="font-size: 20px;"> CI/CD & DevOps</strong><br><br>
       <div align="left">
-        ✅ Jenkins, Azure Pipelines, GitLab CI<br>
-        ✅ Test parallelization & reporting<br>
+        <img src=" https://cdn-icons-png.flaticon.com/128/11676/11676420.png" width="20" alt="TestReporting Logo"/> <strong> Jenkins, Azure Pipelines, GitLab CI</strong><br>
+        <img src="https://cdn-icons-png.flaticon.com/128/12773/12773280.png" width="20" alt="TestReporting Logo"/> <strong> Test parallelization & reporting</strong><br>
         ✅ Shift-left quality practices
       </div>
     </td>
