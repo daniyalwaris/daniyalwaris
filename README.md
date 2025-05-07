@@ -37,14 +37,15 @@ From manual testing to complex test automation pipelines, I thrive on making sof
     <img src="https://playwright.dev/img/playwright-logo.svg" width="20" alt="Playwright Logo"/> <strong>Playwright</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" width="20" alt="k6 Logo"/> <strong>k6</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/2019_SmartBear_logo.jpg" width="20" alt="smartbear Logo"/> <strong>TestComplete</strong> 
-  </div>
-</td>
+    </div>
+    </td>
     <td align="center" width="320" height="220">
       <img src="https://cdn-icons-png.flaticon.com/128/3281/3281329.png" width="60" alt="Manual Testing Icon"/><br>
       <strong style="font-size: 20px;"> Manual & Exploratory Testing</strong><br><br>
-      <div align="left">
-        ✅ Test case design & execution<br>
-        ✅ UAT & hardware testing<br>
+      <div align="left">  
+      <img src="https://cdn-icons-png.flaticon.com/128/8422/8422335.png" width="20" alt="Test case Logo"/> <strong>Test case design & execution</strong><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/18594/18594543.png" width="20" alt="UAT Logo"/> <strong> User Acceptance testing sessions</strong><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/18954/18954451.png" width="20" alt="HarwareTesting Logo"/> <strong> Harware Testing</strong><br>
         ✅ Exploratory sessions
       </div>
     </td>
