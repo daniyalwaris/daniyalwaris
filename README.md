@@ -131,10 +131,10 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 
 ## 📈 GitHub Insights
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalwaris&theme=radical" alt="GitHub streak" />
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalwaris&theme=radical" alt="Daniyal GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalwaris&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
