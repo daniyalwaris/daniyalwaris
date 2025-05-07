@@ -36,7 +36,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="20" alt="Selenium Logo"/> <strong>Selenium WebDriver</strong> — End-to-end browser automation<br>
     <img src="https://playwright.dev/img/playwright-logo.svg" width="20" alt="Playwright Logo"/> <strong>Playwright</strong> — Cross-browser testing with TypeScript<br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" width="20" alt="k6 Logo"/> <strong>k6</strong> — Load & performance testing<br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/2019_SmartBear_logo.jpg"/>width="20" alt="smartbear Logo"/> <strong>TestComplete</strong> — UI testing for web & desktop
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/2019_SmartBear_logo.jpg" width="20" alt="smartbear Logo"/> <strong>TestComplete</strong> — UI testing for web & desktop
   </div>sadasd
 </td>
     <td align="center" width="320" height="220">
