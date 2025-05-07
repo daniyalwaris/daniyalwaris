@@ -37,7 +37,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
     <img src="https://playwright.dev/img/playwright-logo.svg" width="20" alt="Playwright Logo"/> <strong>Playwright</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" width="20" alt="k6 Logo"/> <strong>k6</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/2019_SmartBear_logo.jpg" width="20" alt="smartbear Logo"/> <strong>TestComplete</strong> 
-  </div>sadasd
+  </div>
 </td>
     <td align="center" width="320" height="220">
       <img src="https://cdn-icons-png.flaticon.com/128/2711/2711401.png" width="60" alt="Manual Testing Icon"/><br>
