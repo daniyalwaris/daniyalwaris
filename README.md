@@ -23,65 +23,64 @@ Here’s what I bring to the table:
 
 ---
 
-## 🔧 What I Do
+## 🚀 What I Do
 
 <table>
   <tr>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/3590/3590556.png" width="60" alt="Test Automation"/><br>
-      <strong>🧪 Test Automation</strong><br><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/3590/3590556.png" width="60"/><br>
+      <strong style="font-size: 20px;">🧪 Test Automation</strong><br><br>
       <div align="left">
-        • Selenium WebDriver<br>
-        • Playwright <br>
-        • k6
-        • TestComplete
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968544.png" width="16"/> Selenium & WebDriver<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/2885/2885278.png" width="16"/> Playwright (TypeScript)<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/3642/3642967.png" width="16"/> k6 & TestComplete
       </div>
     </td>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/2711/2711401.png" width="60" alt="Manual Testing"/><br>
-      <strong>🔍 Manual & Exploratory Testing</strong><br><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/2711/2711401.png" width="60"/><br>
+      <strong style="font-size: 20px;">🔍 Manual & Exploratory Testing</strong><br><br>
       <div align="left">
-        • Test case design & execution<br>
-        • Exploratory sessions<br>
-        • UAT & hardware integration
+        <img src="https://cdn-icons-png.flaticon.com/128/3064/3064197.png" width="16"/> Test case design & execution<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/1112/1112505.png" width="16"/> Exploratory sessions<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/1011/1011803.png" width="16"/> UAT & hardware integration
       </div>
     </td>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/833/833524.png" width="60" alt="CI/CD"/><br>
-      <strong>🔄 CI/CD Integration</strong><br><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/833/833524.png" width="60"/><br>
+      <strong style="font-size: 20px;">🔄 CI/CD Integration</strong><br><br>
       <div align="left">
-        • Jenkins, Azure Pipelines<br>
-        • GitLab CI/CD<br>
-        • Parallel test execution
+        <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="16"/> Jenkins & Azure Pipelines<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968874.png" width="16"/> GitLab CI/CD<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/1082/1082601.png" width="16"/> Parallelized test runs
       </div>
     </td>
   </tr>
   <tr>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/1170/1170576.png" width="60" alt="API Testing"/><br>
-      <strong>🔗 API & Integration Testing</strong><br><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/1170/1170576.png" width="60"/><br>
+      <strong style="font-size: 20px;">🔗 API & Integration Testing</strong><br><br>
       <div align="left">
-        • REST & GraphQL testing<br>
-        • Contract testing (Pact)<br>
-        • Mock servers & stubbing
+        <img src="https://cdn-icons-png.flaticon.com/128/876/876770.png" width="16"/> REST/GraphQL validation<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/3634/3634236.png" width="16"/> Contract testing (Pact)<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/189/189693.png" width="16"/> Mock servers & stubs
       </div>
     </td>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/3176/3176295.png" width="60" alt="Monitoring"/><br>
-      <strong>📈 Metrics & Monitoring</strong><br><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/3176/3176295.png" width="60"/><br>
+      <strong style="font-size: 20px;">📈 Metrics & Monitoring</strong><br><br>
       <div align="left">
-        • Grafana & Elastic Stack<br>
-        • TestRail & JIRA dashboards<br>
-        • Stability & reliability reports
+        <img src="https://cdn-icons-png.flaticon.com/128/1167/1167223.png" width="16"/> Grafana & Elastic Stack<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/2043/2043203.png" width="16"/> TestRail & JIRA dashboards<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/2913/2913508.png" width="16"/> Reliability & stability reports
       </div>
     </td>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="60" alt="Security & Performance"/><br>
-      <strong>🔒 Security & Performance</strong><br><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="60"/><br>
+      <strong style="font-size: 20px;">🔒 Security & Performance</strong><br><br>
       <div align="left">
-        • OWASP ZAP & Burp Suite<br>
-        • Load & stress testing<br>
-        • JMeter (perf/load testing)
+        <img src="https://cdn-icons-png.flaticon.com/128/1082/1082603.png" width="16"/> OWASP ZAP & Burp Suite<br>
+        <img src="https://cdn-icons-png.flaticon.com/128/1717/1717304.png" width="16"/> Load & stress testing<br>
+        <img src="https://jmeter.apache.org/images/jmeter_square.png" width="16"/> JMeter: Performance & Load Testing
       </div>
     </td>
   </tr>
