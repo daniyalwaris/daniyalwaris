@@ -102,7 +102,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 <img src="https://www.vectorlogo.zone/logos/smartbear/smartbear-ar21.svg" alt="Testcomplete" width="50" height="45" style="margin-right: 10px;"/>
 </p>
 
-<<h3> 💻 Languages  </h3>
+<h3> 💻 Languages  </h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="45" height="45" /> 
