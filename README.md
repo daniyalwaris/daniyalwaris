@@ -66,7 +66,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
       <img src="https://cdn-icons-png.flaticon.com/128/18889/18889881.png" width="50" alt="API Testing Icon"/><br>
       <strong>API & Integration Validation</strong><br><br>
       <div align="left">
-        🔗 Validated REST & GraphQL endpoints end-to-end<br>
+        🔗 Validated REST endpoints end-to-end<br>
         ⚙️ Verified integration between microservices and external systems<br>
         🧾 Conducted contract and schema-based testing<br>
         🚦 Simulated dependent services using mocks/stubs
