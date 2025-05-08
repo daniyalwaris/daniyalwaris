@@ -44,12 +44,10 @@ From manual testing to complex test automation pipelines, I thrive on making sof
       <img src="https://cdn-icons-png.flaticon.com/128/3281/3281329.png" width="50" alt="Manual Testing Icon"/><br>
       <strong>Manual & Exploratory Testing</strong><br><br>
       <div align="left">
-        🔍 Planned and executed structured and exploratory test cycles across web and mobile<br>
-        🧭 Led UAT and acceptance testing with stakeholders and business teams<br>
-        🧪 Facilitated exploratory sessions aligned with risk and release goals<br>
-        📝 Authored test cases, checklists, and traceability matrices for end-to-end coverage<br>
-        🧠 Participated in backlog grooming, sprint planning, and QA sign-off discussions<br>
-        🔧 Validated functionality across real devices, environments, and hardware integrations
+        🔍 Planned and executed test cycles across web, mobile, and hardware<br>
+        🧭 Led UAT and exploratory testing aligned with business goals<br>
+        📝 Created and maintained test cases, checklists, and traceability<br>
+        🧠 Contributed to sprint planning, QA sign-offs, and agile QA ownership
       </div>
     </td>
     <td align="center" width="320" height="220">
