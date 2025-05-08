@@ -155,6 +155,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
       <td><strong>Foundational QA</strong></td>
       <td>
         • Certified Tester Foundation Level (CTFL)<br>
+        • Become a Software Tester<br>
         • Test Automation Foundations<br>
         • Programming Foundations: Software Testing/QA<br>
         • Behavior-Driven Development
@@ -168,7 +169,8 @@ From manual testing to complex test automation pipelines, I thrive on making sof
         • Learning Selenium<br>
         • Java: Testing with JUnit<br>
         • JMeter: Performance and Load Testing<br>
-        • API Test Automation with SoapUI
+        • API Test Automation with SoapUI<br>
+        • Scripting for Testers
       </td>
     </tr>
     <tr>
