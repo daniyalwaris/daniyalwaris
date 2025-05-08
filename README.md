@@ -95,46 +95,45 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 
 ### 🧪 Frameworks & Tools  
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" alt="Selenium" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="K6" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Andriod Studio" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/smartbear/smartbear-ar21.svg" alt="Testcomplete" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/smartbear/smartbear-ar21.svg" alt="Testcomplete" width="50" height="45"/>
 </p>
-
-          
-          
-          
-![Selenium](https://img.shields.io/badge/Selenium-430098?style=for-the-badge&logo=selenium&logoColor=white) 
-![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white) 
-![k6](https://img.shields.io/badge/k6-00aaff?style=for-the-badge&logo=k6&logoColor=white) 
-![TestComplete](https://img.shields.io/badge/TestComplete-ff7b00?style=for-the-badge&logo=testcomplete&logoColor=white)
 
 ### 💻 Languages  
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" /> 
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="45" height="45" /> 
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="45" height="45" /> 
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="45" height="45" /> 
 </p>
 
 ### 🔄 CI/CD & Version Control  
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45"/>
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure" width="45" height="45"/>
-          
-          
-![Jenkins](https://img.shields.io/badge/Jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078d4?style=for-the-badge&logo=azurepipelines&logoColor=white) 
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="Gitlab CI" width="45" height="45"/>    
+<img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" width="45" height="45"/>          
+</p>
 
 ### 📈 Monitoring & Reporting  
-![Grafana](https://img.shields.io/badge/Grafana-f46800?style=for-the-badge&logo=grafana&logoColor=white) 
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white) 
-![JIRA](https://img.shields.io/badge/JIRA-0052cc?style=for-the-badge&logo=jira&logoColor=white) 
-![TestRail](https://img.shields.io/badge/TestRail-02569b?style=for-the-badge&logo=testrail&logoColor=white)
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="Kibana" width="45" height="45"/>     
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="Grafana" width="45" height="45"/>    
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Grafana" width="45" height="45"/>  
+</p>
+
+
+###🧪 QA Tools & Test Reporting
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" width="45" height="45"/>     
+<img src="https://cdn.brandfetch.io/idylTcVOhZ/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Testrail" width="45" height="45"/>    
+<img src="https://camo.githubusercontent.com/e8c35be9136635c1b2e2b22b112e02ef1fb9e9434970df18d84071a2e714d3e0/68747470733a2f2f616c6c7572657265706f72742e6f72672f7075626c69632f696d672f616c6c7572652d7265706f72742e737667" alt="Allurereport" width="45" height="45"/>  
+</p>
+
+
 
 ---
 
