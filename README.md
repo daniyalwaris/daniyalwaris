@@ -99,44 +99,43 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 
 ## 🛠️ Tech Stack
 
-<h3> 🧪 Frameworks & Tools  </h3>
+<h3>🧪 Frameworks & Tools</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" alt="Selenium" width="45" height="45" style="margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="45" height="45" style="margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="K6" width="45" height="45" style="margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Andriod Studio (Mobile Debugging)" width="45" height="45" style="margin-right: 10px;"/>
-<img src="https://www.vectorlogo.zone/logos/smartbear/smartbear-ar21.svg" alt="Testcomplete (SmartBear)" width="50" height="45" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" alt="Selenium" height="45" style="margin-right: 20px; vertical-align: middle;" title="Selenium WebDriver" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" height="45" style="margin-right: 20px; vertical-align: middle;" title="Playwright" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="k6" height="45" style="margin-right: 20px; vertical-align: middle;" title="k6 (Load Testing)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Android Studio" height="45" style="margin-right: 20px; vertical-align: middle;" title="Android Studio (Mobile Debugging)" />
+  <img src="https://www.vectorlogo.zone/logos/smartbear/smartbear-ar21.svg" alt="TestComplete" height="45" style="margin-right: 20px; vertical-align: middle;" title="TestComplete (SmartBear)" />
 </p>
 
-<h3> 💻 Languages  </h3>
+<h3>💻 Languages</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="45" height="45" /> 
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="45" height="45" /> 
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="45" height="45" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" height="45" style="margin-right: 20px; vertical-align: middle;" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="45" style="margin-right: 20px; vertical-align: middle;" title="JavaScript" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="45" style="margin-right: 20px; vertical-align: middle;" title="Java" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="45" style="margin-right: 20px; vertical-align: middle;" title="TypeScript" />
 </p>
 
-<h3> 🔄 CI/CD & Version Control </h3>
+<h3>🔄 CI/CD & Version Control</h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" height="45" style="margin-right: 20px; vertical-align: middle;" title="Jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" height="45" style="margin-right: 20px; vertical-align: middle;" title="Azure Pipelines"/>
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="GitLab CI" height="45" style="margin-right: 20px; vertical-align: middle;" title="GitLab CI"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" height="45" style="margin-right: 20px; vertical-align: middle;" title="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" height="45" style="margin-right: 20px; vertical-align: middle;" title="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" height="45" style="margin-right: 20px; vertical-align: middle;" title="Azure Pipelines" />
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="GitLab" height="45" style="margin-right: 20px; vertical-align: middle;" title="GitLab CI" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" height="45" style="margin-right: 20px; vertical-align: middle;" title="GitHub" />
 </p>
 
-<h3> 📈 Monitoring & Reporting  </h3>
+<h3>📈 Monitoring & Reporting</h3>
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="Kibana" width="45" height="45" style="margin-right: 10px;"/>     
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="Grafana" width="45" height="45" style="margin-right: 10px;"/>    
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Grafana" width="45" height="45" style="margin-right: 10px;"/>  
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="Kibana" height="45" style="margin-right: 20px; vertical-align: middle;" title="Kibana" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="Grafana" height="45" style="margin-right: 20px; vertical-align: middle;" title="Grafana" />
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Prometheus" height="45" style="margin-right: 20px; vertical-align: middle;" title="Prometheus" />
 </p>
 
-
-<h3> 📋  QA Tools & Test Reporting </h3>
+<h3>📋 QA Tools & Test Reporting</h3>
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" width="45" height="45" style="margin-right: 10px;"/>     
-<img src="https://cdn.brandfetch.io/idylTcVOhZ/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Testrail" width="45" height="45" style="margin-right: 10px;"/>    
-<img src="https://allurereport.org/svg/logo-report-sign.svg" alt="Allure Report" height="45" style="margin-right: 20px;">
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" height="45" style="margin-right: 20px; vertical-align: middle;" title="Jira" />
+  <img src="https://cdn.brandfetch.io/idylTcVOhZ/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="TestRail" height="45" style="margin-right: 20px; vertical-align: middle;" title="TestRail" />
+  <img src="https://allurereport.org/assets/img/allure-logo.svg" alt="Allure Report" height="45" style="margin-right: 20px; vertical-align: middle;" title="Allure Report" />
 </p>
 
 
