@@ -112,10 +112,10 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 
 ### 🔄 CI/CD & Version Control  
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" width="45" height="45" style="margin-right: 20px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure" width="45" height="45" style="margin-right: 20px;"/>
-<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="Gitlab CI" width="45" height="45" style="margin-right: 20px;"/>    
-<img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" width="45" height="45" style="margin-right: 20px;"/>          
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" width="45" height="45" style="margin-right: 30px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure" width="45" height="45" style="margin-right: 30px;"/>
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="Gitlab CI" width="45" height="45" style="margin-right: 30px;"/>    
+<img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" width="45" height="45" style="margin-right: 30px;"/>          
 </p>
 
 ### 📈 Monitoring & Reporting  
