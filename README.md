@@ -93,7 +93,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 
 ## 🛠️ Tech Stack
 
-### 🧪 Frameworks & Tools  
+<h2> 🧪 Frameworks & Tools  </h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" alt="Selenium" width="45" height="45" style="margin-right: 10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="45" height="45" style="margin-right: 10px;"/>
@@ -102,7 +102,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 <img src="https://www.vectorlogo.zone/logos/smartbear/smartbear-ar21.svg" alt="Testcomplete" width="50" height="45" style="margin-right: 10px;"/>
 </p>
 
-### 💻 Languages  
+<<h2> 💻 Languages  </h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="45" height="45" /> 
@@ -110,7 +110,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="45" height="45" /> 
 </p>
 
-### 🔄 CI/CD & Version Control  
+<h2> 🔄 CI/CD & Version Control  </h2>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" width="45" height="45" style="margin-right: 30px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure" width="45" height="45" style="margin-right: 30px;"/>
@@ -118,7 +118,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" width="45" height="45" style="margin-right: 30px;"/>          
 </p>
 
-### 📈 Monitoring & Reporting  
+<h2> 📈 Monitoring & Reporting  </h2>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="Kibana" width="45" height="45"/>     
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="Grafana" width="45" height="45"/>    
@@ -126,7 +126,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 </p>
 
 
-### 🧪 QA Tools & Test Reporting
+<h2> 🧪 QA Tools & Test Reporting </h2>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" width="45" height="45"/>     
 <img src="https://cdn.brandfetch.io/idylTcVOhZ/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Testrail" width="45" height="45"/>    
