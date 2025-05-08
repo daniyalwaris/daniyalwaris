@@ -120,17 +120,17 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 
 <h3> 📈 Monitoring & Reporting  </h3>
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="Kibana" width="45" height="45"/>     
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="Grafana" width="45" height="45"/>    
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Grafana" width="45" height="45"/>  
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="Kibana" width="45" height="45" style="margin-right: 10px;"/>     
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="Grafana" width="45" height="45" style="margin-right: 10px;"/>    
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Grafana" width="45" height="45" style="margin-right: 10px;"/>  
 </p>
 
 
 <h3> 🧪 QA Tools & Test Reporting </h3>
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" width="45" height="45"/>     
-<img src="https://cdn.brandfetch.io/idylTcVOhZ/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Testrail" width="45" height="45"/>    
-<img src="https://camo.githubusercontent.com/e8c35be9136635c1b2e2b22b112e02ef1fb9e9434970df18d84071a2e714d3e0/68747470733a2f2f616c6c7572657265706f72742e6f72672f7075626c69632f696d672f616c6c7572652d7265706f72742e737667" alt="Allurereport" width="45" height="45"/>  
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" width="45" height="45" style="margin-right: 10px;"/>     
+<img src="https://cdn.brandfetch.io/idylTcVOhZ/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Testrail" width="45" height="45" style="margin-right: 10px;"/>    
+<img src="https://camo.githubusercontent.com/e8c35be9136635c1b2e2b22b112e02ef1fb9e9434970df18d84071a2e714d3e0/68747470733a2f2f616c6c7572657265706f72742e6f72672f7075626c69632f696d672f616c6c7572652d7265706f72742e737667" alt="Allurereport" width="45" height="45" style="margin-right: 10px;"/>  
 </p>
 
 
