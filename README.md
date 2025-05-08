@@ -138,6 +138,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
   <img src="https://allurereport.org/svg/logo-report-sign.svg" alt="Allure Report" height="45" style="margin-right: 20px; vertical-align: middle;" title="Allure Report" />
 </p>
 
+
 ---
 
 ## 🏆 Certifications
@@ -153,7 +154,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 ## 📈 GitHub Insights
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com/?user=daniyalwaris&theme=radical" alt="Daniyal GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalwaris&theme=radical" alt="Daniyal GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalwaris&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
