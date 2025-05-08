@@ -222,8 +222,8 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 ## 🤝 Let’s Collaborate
 
 <p align="center">
-  <a href="https://linkedin.com/in/daniyalwaris" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a>
-  <a href="mailto:daniyalwaris92@gmail.com"><img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-1024.png" alt="Email"/></a>
+  <a href="https://linkedin.com/in/daniyalwaris" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="45" style="margin-right: 20px; vertical-align: middle;" title="Linkedin"/></a>
+  <a href="mailto:daniyalwaris92@gmail.com"><img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-1024.png" alt="Email" height="45" style="margin-right: 20px; vertical-align: middle;" title="Gmail"/></a>
 </p>
 
 💬 **Let's chat testing, automation, or futuristic QA strategies!**  
