@@ -94,7 +94,17 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 ## 🛠️ Tech Stack
 
 ### 🧪 Frameworks & Tools  
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="K6" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Andriod Studio" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/smartbear/smartbear-ar21.svg" alt="Testcomplete" width="45" height="45"/>
+</p>
 
+          
+          
+          
 ![Selenium](https://img.shields.io/badge/Selenium-430098?style=for-the-badge&logo=selenium&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white) 
 ![k6](https://img.shields.io/badge/k6-00aaff?style=for-the-badge&logo=k6&logoColor=white) 
@@ -110,6 +120,11 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 </p>
 
 ### 🔄 CI/CD & Version Control  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure" width="45" height="45"/>
+          
+          
 ![Jenkins](https://img.shields.io/badge/Jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078d4?style=for-the-badge&logo=azurepipelines&logoColor=white) 
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-fc6d26?style=for-the-badge&logo=gitlab&logoColor=white) 
