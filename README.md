@@ -124,6 +124,14 @@ From manual testing to complex test automation pipelines, I thrive on making sof
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" height="45" style="margin-right: 20px; vertical-align: middle;" title="GitHub" />
 </p>
 
+          
+<h3>☁️ Cloud Platforms</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="45" style="margin-right: 20px; vertical-align: middle;" title="Amazon web service"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" height="45" style="margin-right: 20px; vertical-align: middle;" title=" Cloud Platform (GCP)"/>
+</p>
+         
+
 <h3>📈 Monitoring & Reporting</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="Kibana" height="45" style="margin-right: 20px; vertical-align: middle;" title="Kibana" />
