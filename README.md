@@ -143,12 +143,51 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 
 ## 🏆 Certifications
 
-| Organization          | Certifications |
-|-----------------------|----------------|
-| **ISTQB**             | ✅ CTFL (Mar 2019) |
-| **LinkedIn Learning** | 🔹 Test Automation Engineer<br>🔹 API Test Automation (SoapUI)<br>🔹 Agile, JUnit, Selenium, JMeter |
-| **Others**            | 📚 Intro to Kubernetes (LFS158)<br>📘 Selenium WebDriver (Udemy)<br>📋 Scrum Fundamentals |
-
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Certifications</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Foundational QA</strong></td>
+      <td>
+        • Certified Tester Foundation Level (CTFL)<br>
+        • Test Automation Foundations<br>
+        • Programming Foundations: Software Testing/QA<br>
+        • Behavior-Driven Development
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Test Automation & Tools</strong></td>
+      <td>
+        • Become a Test Automation Engineer<br>
+        • Selenium WebDriver with C#<br>
+        • Learning Selenium<br>
+        • Java: Testing with JUnit<br>
+        • JMeter: Performance and Load Testing<br>
+        • API Test Automation with SoapUI
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Agile & Project QA</strong></td>
+      <td>
+        • Scrum Fundamentals Certified (SFC)<br>
+        • Scrums for Professional<br>
+        • Agile Foundations / Agile Testing / Scrum: The Basics<br>
+        • Project Management Foundations: Quality
+      </td>
+    </tr>
+    <tr>
+      <td><strong>DevOps & Cloud</strong></td>
+      <td>
+        • Introduction to Kubernetes (LFS158)
+      </td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 📈 GitHub Insights
