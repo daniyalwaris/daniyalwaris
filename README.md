@@ -94,17 +94,20 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 ## 🛠️ Tech Stack
 
 ### 🧪 Frameworks & Tools  
+
 ![Selenium](https://img.shields.io/badge/Selenium-430098?style=for-the-badge&logo=selenium&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white) 
 ![k6](https://img.shields.io/badge/k6-00aaff?style=for-the-badge&logo=k6&logoColor=white) 
 ![TestComplete](https://img.shields.io/badge/TestComplete-ff7b00?style=for-the-badge&logo=testcomplete&logoColor=white)
 
 ### 💻 Languages  
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" /> 
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+</p>
 
 ### 🔄 CI/CD & Version Control  
 ![Jenkins](https://img.shields.io/badge/Jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white) 
