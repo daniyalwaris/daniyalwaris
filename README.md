@@ -25,65 +25,73 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 
 ## 💼 What I Do
 
-✨ **Building high-coverage test suites** | 🔄 **Embedding QA deep into DevOps** | 🔐 **Securing reliability across the stack**
+🧪 **Building high-coverage test suites** | 🤝 **Aligning QA with DevOps pipelines** | 📊 **Enabling stable, high-confidence releases** | ✨ **Driving quality through test strategy and automation**
+
 
 <table>
   <tr>
-   <td align="center" width="320" height="220">
-    <img src="https://cdn-icons-png.flaticon.com/128/18573/18573703.png" width="60" alt="Automation Icon"/><br>
-     <strong style="font-size: 20px;">Test Automation</strong><br><br>
-    <div align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="20" alt="Selenium Logo"/> <strong>Selenium WebDriver</strong><br>
-    <img src="https://playwright.dev/img/playwright-logo.svg" width="20" alt="Playwright Logo"/> <strong>Playwright</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" width="20" alt="k6 Logo"/> <strong>k6</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/2019_SmartBear_logo.jpg" width="20" alt="smartbear Logo"/> <strong>TestComplete</strong> 
-    </div>
-    </td>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/3281/3281329.png" width="60" alt="Manual Testing Icon"/><br>
-      <strong style="font-size: 20px;"> Manual & Exploratory Testing</strong><br><br>
-      <div align="left">  
-      <img src="https://cdn-icons-png.flaticon.com/128/8422/8422335.png" width="20" alt="Test case Logo"/> <strong>Test case design & execution</strong><br>
-      <img src="https://cdn-icons-png.flaticon.com/128/18594/18594543.png" width="20" alt="UAT Logo"/> <strong> User Acceptance testing and Exploratory sessions</strong><br>
-      <img src="https://cdn-icons-png.flaticon.com/128/18954/18954451.png" width="20" alt="HarwareTesting Logo"/> <strong> Harware Testing</strong><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/18573/18573703.png" width="50" alt="Automation Icon"/><br>
+      <strong>Test Automation & Framework Design</strong><br><br>
+      <div align="left">
+        📌 Designed and maintained scalable automation frameworks<br>
+        📌 Enabled cross-browser and cross-platform testing<br>
+        📌 Integrated UI/API tests in CI pipelines<br>
+        📌 Increased regression coverage and test reliability
       </div>
     </td>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/11518/11518711.png" width="60" alt="CI/CD Icon"/><br>
-       <strong style="font-size: 20px;"> CI/CD & DevOps</strong><br><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/3281/3281329.png" width="50" alt="Manual Testing Icon"/><br>
+      <strong>Manual & Exploratory Testing</strong><br><br>
       <div align="left">
-        <img src="https://cdn-icons-png.flaticon.com/128/11676/11676420.png" width="20" alt="CICD Logo"/> <strong> Jenkins, Azure Pipelines, GitLab CI</strong><br>
-        <img src="https://cdn-icons-png.flaticon.com/128/12773/12773280.png" width="20" alt="TestReporting Logo"/> <strong> Test parallelization & reporting</strong><br>
-        ✅ Shift-left quality practices
+        🔍 Planned and executed structured and exploratory test cycles across web and mobile<br>
+        🧭 Led UAT and acceptance testing with stakeholders and business teams<br>
+        🧪 Facilitated exploratory sessions aligned with risk and release goals<br>
+        📝 Authored test cases, checklists, and traceability matrices for end-to-end coverage<br>
+        🧠 Participated in backlog grooming, sprint planning, and QA sign-off discussions<br>
+        🔧 Validated functionality across real devices, environments, and hardware integrations
+      </div>
+    </td>
+    <td align="center" width="320" height="220">
+      <img src="https://cdn-icons-png.flaticon.com/128/11518/11518711.png" width="50" alt="CI/CD Icon"/><br>
+      <strong>CI/CD & DevOps Integration</strong><br><br>
+      <div align="left">
+        🔄 Embedded automated tests into build pipelines<br>
+        📈 Set up test result reporting and dashboarding<br>
+        🛠️ Collaborated on test environment setup & maintenance<br>
+        ⏱️ Implemented test parallelization to reduce feedback loops
       </div>
     </td>
   </tr>
   <tr>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/18889/18889881.png" width="60" alt="API Testing Icon"/><br>
-      <strong>🔗 API & Integration Testing</strong><br><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/18889/18889881.png" width="50" alt="API Testing Icon"/><br>
+      <strong>API & Integration Validation</strong><br><br>
       <div align="left">
-        ✅ REST, GraphQL, Pact<br>
-        ✅ Contract testing, mocks & stubs<br>
-        ✅ Functional & performance validation
+        🔗 Validated REST & GraphQL endpoints end-to-end<br>
+        ⚙️ Verified integration between microservices and external systems<br>
+        🧾 Conducted contract and schema-based testing<br>
+        🚦 Simulated dependent services using mocks/stubs
       </div>
     </td>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/15165/15165488.png" width="60" alt="Monitoring Icon"/><br>
-       <strong style="font-size: 20px;"> Metrics & Observability</strong><br><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/15165/15165488.png" width="50" alt="Monitoring Icon"/><br>
+      <strong>Quality Monitoring & Reporting</strong><br><br>
       <div align="left">
-        ✅ Grafana & Elastic Stack<br>
-        ✅ JIRA, TestRail dashboards<br>
-        ✅ Stability and release health reports
+        📊 Monitored release readiness and defect trends<br>
+        🧩 Collaborated in triage and root cause analysis<br>
+        📋 Shared test status and release health with stakeholders<br>
+        📂 Maintained test documentation and traceability
       </div>
     </td>
     <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="60" alt="Security Icon"/><br>
-      <strong style="font-size: 20px;"> Security & Performance</strong><br><br>
+      <img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="50" alt="Security Icon"/><br>
+      <strong>Performance & Security Awareness</strong><br><br>
       <div align="left">
-        ✅ OWASP ZAP & Burp Suite<br>
-        ✅ JMeter, load/stress testing<br>
-        ✅ Vulnerability detection & mitigation
+        🚀 Executed performance testing to benchmark scalability<br>
+        🔐 Participated in security-focused test cycles<br>
+        🧯 Reported vulnerabilities and system bottlenecks<br>
+        🧪 Ran stress/load test scenarios under peak usage
       </div>
     </td>
   </tr>
