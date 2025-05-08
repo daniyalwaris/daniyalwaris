@@ -106,6 +106,9 @@ From manual testing to complex test automation pipelines, I thrive on making sof
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="k6" height="45" style="margin-right: 20px; vertical-align: middle;" title="k6 (Load Testing)" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Android Studio" height="45" style="margin-right: 20px; vertical-align: middle;" title="Android Studio (Mobile Debugging)" />
   <img src="https://www.vectorlogo.zone/logos/smartbear/smartbear-ar21.svg" alt="TestComplete" height="45" style="margin-right: 20px; vertical-align: middle;" title="TestComplete (SmartBear)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" alt="Postman" height="45" style="margin-right: 20px; vertical-align: middle;" title="Postman" />
+
+          
 </p>
 
 <h3>💻 Languages</h3>
