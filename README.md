@@ -100,7 +100,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 ![TestComplete](https://img.shields.io/badge/TestComplete-ff7b00?style=for-the-badge&logo=testcomplete&logoColor=white)
 
 ### 💻 Languages  
-![Python]("https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45")
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
