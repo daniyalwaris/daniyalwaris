@@ -135,10 +135,8 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" height="45" style="margin-right: 20px; vertical-align: middle;" title="Jira" />
   <img src="https://cdn.brandfetch.io/idylTcVOhZ/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="TestRail" height="45" style="margin-right: 20px; vertical-align: middle;" title="TestRail" />
-  <img src="https://allurereport.org/assets/img/allure-logo.svg" alt="Allure Report" height="45" style="margin-right: 20px; vertical-align: middle;" title="Allure Report" />
+  <img src="https://allurereport.org/svg/logo-report-sign.svg" alt="Allure Report" height="45" style="margin-right: 20px; vertical-align: middle;" title="Allure Report" />
 </p>
-
-
 
 ---
 
