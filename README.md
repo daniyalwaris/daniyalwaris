@@ -95,11 +95,11 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 
 ### 🧪 Frameworks & Tools  
 <p align="left">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" alt="Selenium" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="K6" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Andriod Studio" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/smartbear/smartbear-ar21.svg" alt="Testcomplete" width="50" height="45"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" alt="Selenium" width="45" height="45" style="margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="45" height="45" style="margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="K6" width="45" height="45" style="margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Andriod Studio" width="45" height="45" style="margin-right: 10px;"/>
+<img src="https://www.vectorlogo.zone/logos/smartbear/smartbear-ar21.svg" alt="Testcomplete" width="50" height="45" style="margin-right: 10px;"/>
 </p>
 
 ### 💻 Languages  
