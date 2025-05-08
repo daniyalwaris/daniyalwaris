@@ -126,7 +126,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
 </p>
 
 
-###🧪 QA Tools & Test Reporting
+### 🧪 QA Tools & Test Reporting
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" width="45" height="45"/>     
 <img src="https://cdn.brandfetch.io/idylTcVOhZ/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Testrail" width="45" height="45"/>    
