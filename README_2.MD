@@ -193,18 +193,19 @@ If releases fail → automation is insufficient.
   </thead>
   <tbody>
     <tr>
-      <td><strong>Foundational QA</strong></td>
+      <td><strong>Core QA</strong></td>
       <td>
-        • Certified Tester Foundation Level (CTFL)<br>
+        • ISTQB Certified Tester Foundation Level (CTFL)<br>
         • Become a Software Tester<br>
         • Test Automation Foundations<br>
         • Programming Foundations: Software Testing/QA<br>
-        • Behavior-Driven Development
+        • Behaviour-Driven Development
       </td>
     </tr>
     <tr>
       <td><strong>Test Automation & Tools</strong></td>
       <td>
+        • Playwright 101 (LambdaTest)<br>
         • Become a Test Automation Engineer<br>
         • Selenium WebDriver with C#<br>
         • Learning Selenium<br>
@@ -218,7 +219,7 @@ If releases fail → automation is insufficient.
       <td><strong>Agile & Project QA</strong></td>
       <td>
         • Scrum Fundamentals Certified (SFC)<br>
-        • Scrums for Professional<br>
+        • Scrum for Professionals<br>
         • Agile Foundations / Agile Testing / Scrum: The Basics<br>
         • Project Management Foundations: Quality
       </td>
@@ -226,7 +227,7 @@ If releases fail → automation is insufficient.
     <tr>
       <td><strong>DevOps & Cloud</strong></td>
       <td>
-        • Introduction to Kubernetes (LFS158)
+        • <strong>Introduction to Kubernetes (LFS158)</strong>
       </td>
     </tr>
   </tbody>
