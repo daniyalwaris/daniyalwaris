@@ -266,6 +266,18 @@ I focus on:
 
 ---
 
+## 📈 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyalwaris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalwaris&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalwaris&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="130"/>
+</div>
+
+---
+
 ## 🚀 Repository Topics Highlights
 
 <p align="left">
