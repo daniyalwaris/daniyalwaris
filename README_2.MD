@@ -182,7 +182,7 @@ If releases fail → automation is insufficient.
 ![Allure](https://img.shields.io/badge/Allure-8A2BE2?style=flat-square)
 ![Xray](https://img.shields.io/badge/Xray-1F6FEB?style=flat-square)
 
-🔹 **Data Validation:**  
+🔹 **Data Validation:**
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
 
 ---
