@@ -269,13 +269,15 @@ I focus on:
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniyalwaris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalwaris&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalwaris&theme=tokyonight&hide_border=true&stroke=7c6be8&ring=7c6be8&fire=7c6be8&currStreakLabel=7c6be8" width="100%"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalwaris&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyalwaris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="155"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalwaris&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="155"/>
 </div>
 
 ---
