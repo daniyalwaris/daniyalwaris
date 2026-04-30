@@ -117,22 +117,6 @@ If releases fail → automation is insufficient.
 </table>
 
 ---
-
-## 🧠 System Thinking
-
-```mermaid
-flowchart LR
-    Code --> Build
-    Build --> Test
-    Test --> Report
-    Report --> Insights
-    Insights --> Improve
-    Improve --> Code
-```
-
-> A test is valuable only if it improves the system.
-
----
 ## 🛠️ Tech Stack
 
 🔹 **Languages & Scripting:**
