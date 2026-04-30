@@ -1,154 +1,183 @@
-<!--
-  👋 Hello, I'm Daniyal Waris!
-  QA Engineer ensuring delivery of high-reliability software and systems.
--->
+<!-- ========================= PROFILE README ========================= -->
+
+<!-- 👋 Hello, I'm Daniyal Waris! QA Engineer ensuring delivery of high-reliability software and systems. -->
 
 <h1 align="center">👋 Hi, I'm Daniyal Waris</h1>
+
 <p align="center">
-  <em><strong>QA Engineer | Automation Architect | ISTQB-Certified Test Specialist</strong></em><br/>
-  🧪 Automated Testing • 🔍 Quality Assurance • 🔄 CI/CD Pipelines • 📊 Observability & Reliability
+  <em><strong>QA Engineer | Test Automation Engineer |  Test Specialist  | ISTQB-Certified</strong></em><br/>
+  🧪 Automated Testing • 🔍 Quality Assurance • 🔄 CI/CD Pipelines • 📊 Monitoring & System Reliability
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hi there! I'm Daniyal — a **quality-obsessed engineer** who ensures systems are bulletproof before they hit production.  
-From manual testing to complex test automation pipelines, I thrive on making software rock-solid and reliable.  
+Hi there! I'm Daniyal — a **quality-obsessed engineer** focused on building reliable systems before they reach production.
+From exploratory testing to automation architecture, I work on making software **stable, scalable, and release-ready**.
 
-### 🔑 Highlights:
-- 🏅 ISTQB Certified (CTFL) with 6+ years in QA, automation & integration  
-- 🛠️ Architected robust test frameworks for web, mobile, desktop, and embedded platforms  
-- 💡 Passionate about CI/CD, observability, and pushing quality upstream  
+### 🔑 Highlights
+
+* 🛠️ Built and improved automation frameworks for web, mobile, desktop, and embedded platforms
+* 💡 Passionate about CI/CD, observability, and improving quality upstream
+* 🤝 Strong believer in connecting **QA, Dev, and DevOps** into one quality system
+* 🔗 Experience across digital health, mobile forensics, and financial systems  
+* 📱 Testing across Android, iOS, desktop, and embedded platforms  
+* ⚙️ Validating hardware-software integrations in complex systems  
 
 ---
 
+## ⚙️ Philosophy
+
+```text
+Quality is not a phase.
+Quality is a system.
+
+If testing is slow → feedback loops are broken.
+If bugs escape → observability is missing.
+If releases fail → automation is insufficient.
+```
+
+---
 ## 💼 What I Do
 
 🧪 **Building high-coverage test suites** | 🤝 **Aligning QA with DevOps pipelines** | 📊 **Enabling stable, high-confidence releases** | ✨ **Driving quality through test strategy and automation**
 
-
 <table>
-  <tr>
-    <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/18573/18573703.png" width="50" alt="Automation Icon"/><br>
-      <strong>Test Automation & Framework Design</strong><br><br>
-      <div align="left">
-        📌 Designed and maintained scalable automation frameworks<br>
-        📌 Enabled cross-browser and cross-platform testing<br>
-        📌 Integrated UI/API tests in CI pipelines<br>
-        📌 Increased regression coverage and test reliability
-      </div>
-    </td>
-    <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/3281/3281329.png" width="50" alt="Manual Testing Icon"/><br>
-      <strong>Manual & Exploratory Testing</strong><br><br>
-      <div align="left">
-        🔍 Planned and executed test cycles across web, mobile, and hardware<br>
-        🧭 Led UAT and exploratory testing aligned with business goals<br>
-        📝 Created and maintained test cases, checklists, and traceability<br>
-        🧠 Contributed to sprint planning, QA sign-offs, and agile QA ownership
-      </div>
-    </td>
-    <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/11518/11518711.png" width="50" alt="CI/CD Icon"/><br>
-      <strong>CI/CD & DevOps Integration</strong><br><br>
-      <div align="left">
-        🔄 Embedded automated tests into build pipelines<br>
-        📈 Set up test result reporting and dashboarding<br>
-        🛠️ Collaborated on test environment setup & maintenance<br>
-        ⏱️ Implemented test parallelization to reduce feedback loops
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/18889/18889881.png" width="50" alt="API Testing Icon"/><br>
-      <strong>API & Integration Validation</strong><br><br>
-      <div align="left">
-        🔗 Validated REST endpoints end-to-end<br>
-        ⚙️ Verified integration between microservices and external systems<br>
-        🧾 Conducted contract and schema-based testing<br>
-        🚦 Simulated dependent services using mocks/stubs
-      </div>
-    </td>
-    <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/15165/15165488.png" width="50" alt="Monitoring Icon"/><br>
-      <strong>Quality Monitoring & Reporting</strong><br><br>
-      <div align="left">
-        📊 Monitored release readiness and defect trends<br>
-        🧩 Collaborated in triage and root cause analysis<br>
-        📋 Shared test status and release health with stakeholders<br>
-        📂 Maintained test documentation and traceability
-      </div>
-    </td>
-    <td align="center" width="320" height="220">
-      <img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="50" alt="Security Icon"/><br>
-      <strong>Performance & Security Awareness</strong><br><br>
-      <div align="left">
-        🚀 Executed performance testing to benchmark scalability<br>
-        🔐 Participated in security-focused test cycles<br>
-        🧯 Reported vulnerabilities and system bottlenecks<br>
-        🧪 Ran stress/load test scenarios under peak usage
-      </div>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="320">
+
+<img src="https://cdn-icons-png.flaticon.com/128/18573/18573703.png" width="45"/><br>
+<strong>Test Automation & Framework Design</strong><br><br>
+
+<div align="left">
+• Scalable automation frameworks<br>
+• Cross-browser & cross-platform testing<br>
+• UI/API integration in CI pipelines<br>
+• Improved regression reliability
+</div>
+
+</td>
+
+<td align="center" width="320">
+
+<img src="https://cdn-icons-png.flaticon.com/128/3281/3281329.png" width="45"/><br>
+<strong>Manual & Exploratory Testing</strong><br><br>
+
+<div align="left">
+• Test cycles across web, mobile & hardware<br>
+• UAT & exploratory testing leadership<br>
+• Test cases & traceability management<br>
+• Agile QA ownership & planning
+</div>
+
+</td>
+
+<td align="center" width="320">
+
+<img src="https://cdn-icons-png.flaticon.com/128/11518/11518711.png" width="45"/><br>
+<strong>CI/CD & DevOps Integration</strong><br><br>
+
+<div align="left">
+• Automated testing in pipelines<br>
+• Reporting & dashboards setup<br>
+• Test environment collaboration<br>
+• Parallel execution optimization
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="320">
+
+<img src="https://cdn-icons-png.flaticon.com/128/18889/18889881.png" width="45"/><br>
+<strong>API & Integration Validation</strong><br><br>
+
+<div align="left">
+• REST API validation end-to-end<br>
+• Microservices integration testing<br>
+• Contract & schema validation<br>
+• Mocking & stubbing dependencies
+</div>
+
+</td>
+
+<td align="center" width="320">
+
+<img src="https://cdn-icons-png.flaticon.com/128/15165/15165488.png" width="45"/><br>
+<strong>Quality Monitoring & Reporting</strong><br><br>
+
+<div align="left">
+• Release readiness & defect tracking<br>
+• Root cause & triage collaboration<br>
+• Stakeholder reporting & insights<br>
+• Documentation & traceability
+</div>
+
+</td>
+
+<td align="center" width="320">
+
+<img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="45"/><br>
+<strong>Performance & Stability Testing</strong><br><br>
+
+<div align="left">
+• Performance and load testing (k6)<br>
+• Stability testing for high-volume systems<br>
+• Identifying bottlenecks and system limits<br>
+• Supporting reliable system performance
+</div>
+
+</td>
+</tr>
 </table>
 
 ---
-
 ## 🛠️ Tech Stack
 
-<h3>🧪 Frameworks & Tools</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" alt="Selenium" height="45" style="margin-right: 20px; vertical-align: middle;" title="Selenium WebDriver" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" height="45" style="margin-right: 20px; vertical-align: middle;" title="Playwright" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="k6" height="45" style="margin-right: 20px; vertical-align: middle;" title="k6 (Load Testing)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Android Studio" height="45" style="margin-right: 20px; vertical-align: middle;" title="Android Studio (Mobile Debugging)" />
-  <img src="https://www.vectorlogo.zone/logos/smartbear/smartbear-ar21.svg" alt="TestComplete" height="45" style="margin-right: 20px; vertical-align: middle;" title="TestComplete (SmartBear)" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" alt="Postman" height="45" style="margin-right: 20px; vertical-align: middle;" title="Postman" />
+🔹 **Languages & Scripting:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
 
-          
-</p>
+🔹 **Test Automation & Tools:**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6DB33F?style=flat-square)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![TestComplete](https://img.shields.io/badge/TestComplete-0052CC?style=flat-square)
 
-<h3>💻 Languages</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" height="45" style="margin-right: 20px; vertical-align: middle;" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="45" style="margin-right: 20px; vertical-align: middle;" title="JavaScript" />
-  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="45" style="margin-right: 20px; vertical-align: middle;" title="Java" />
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="45" style="margin-right: 20px; vertical-align: middle;" title="TypeScript" />
-</p>
+🔹 **CI/CD & Version Control:**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<h3>🔄 CI/CD & Version Control</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins" height="45" style="margin-right: 20px; vertical-align: middle;" title="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" height="45" style="margin-right: 20px; vertical-align: middle;" title="Azure Pipelines" />
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="GitLab" height="45" style="margin-right: 20px; vertical-align: middle;" title="GitLab CI" />
-  <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub" height="45" style="margin-right: 20px; vertical-align: middle;" title="GitHub" />
-</p>
+🔹 **Cloud & Infrastructure:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-          
-<h3>☁️ Cloud Platforms</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="45" style="margin-right: 20px; vertical-align: middle;" title="Amazon web service"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" height="45" style="margin-right: 20px; vertical-align: middle;" title=" Cloud Platform (GCP)"/>
-</p>
-         
+🔹 **Monitoring & Observability:**
+![Kibana](https://img.shields.io/badge/Kibana-FEC514?style=flat-square&logo=elastic&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-000000?style=flat-square)
 
-<h3>📈 Monitoring & Reporting</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="Kibana" height="45" style="margin-right: 20px; vertical-align: middle;" title="Kibana" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="Grafana" height="45" style="margin-right: 20px; vertical-align: middle;" title="Grafana" />
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Prometheus" height="45" style="margin-right: 20px; vertical-align: middle;" title="Prometheus" />
-</p>
+🔹 **QA & Test Management:**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-4A4A4A?style=flat-square)
+![Allure](https://img.shields.io/badge/Allure-8A2BE2?style=flat-square)
+![Xray](https://img.shields.io/badge/Xray-1F6FEB?style=flat-square)
 
-<h3>📋 QA Tools & Test Reporting</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira" height="45" style="margin-right: 20px; vertical-align: middle;" title="Jira" />
-  <img src="https://cdn.brandfetch.io/idylTcVOhZ/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="TestRail" height="45" style="margin-right: 20px; vertical-align: middle;" title="TestRail" />
-  <img src="https://allurereport.org/svg/logo-report-sign.svg" alt="Allure Report" height="45" style="margin-right: 20px; vertical-align: middle;" title="Allure Report" />
-</p>
-
+🔹 **Data Validation:**
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
 
 ---
 
@@ -163,18 +192,19 @@ From manual testing to complex test automation pipelines, I thrive on making sof
   </thead>
   <tbody>
     <tr>
-      <td><strong>Foundational QA</strong></td>
+      <td><strong>Core QA</strong></td>
       <td>
-        • Certified Tester Foundation Level (CTFL)<br>
+        • <strong>ISTQB Certified Tester Foundation Level (CTFL)</strong><br>
         • Become a Software Tester<br>
         • Test Automation Foundations<br>
         • Programming Foundations: Software Testing/QA<br>
-        • Behavior-Driven Development
+        • Behaviour-Driven Development
       </td>
     </tr>
     <tr>
       <td><strong>Test Automation & Tools</strong></td>
       <td>
+        • <strong>Playwright 101 (LambdaTest)</strong><br>
         • Become a Test Automation Engineer<br>
         • Selenium WebDriver with C#<br>
         • Learning Selenium<br>
@@ -188,7 +218,7 @@ From manual testing to complex test automation pipelines, I thrive on making sof
       <td><strong>Agile & Project QA</strong></td>
       <td>
         • Scrum Fundamentals Certified (SFC)<br>
-        • Scrums for Professional<br>
+        • Scrum for Professionals<br>
         • Agile Foundations / Agile Testing / Scrum: The Basics<br>
         • Project Management Foundations: Quality
       </td>
@@ -196,43 +226,74 @@ From manual testing to complex test automation pipelines, I thrive on making sof
     <tr>
       <td><strong>DevOps & Cloud</strong></td>
       <td>
-        • Introduction to Kubernetes (LFS158)
+        • <strong>Introduction to Kubernetes (LFS158)</strong>
       </td>
     </tr>
   </tbody>
 </table>
+
+---
+
+## 🚀 What Sets Me Apart
+
+Most QA focuses on:
+
+* writing test cases
+* increasing coverage
+* validating features late in the cycle
+
+I focus on:
+
+* reducing **feedback time**
+* improving **system reliability**
+* building **testable architectures**
+* pushing quality earlier into the development lifecycle
+
+---
+
+## 📈 Impact & Contributions
+
+- 🚀 Reduced manual testing effort by **~40%** by integrating automation into CI/CD pipelines  
+- 🧪 Achieved **~60% test coverage** by building a hybrid automation framework (C# + TestComplete)  
+- 📈 Improved regression reliability and reduced feedback cycles across multiple systems  
+- 👥 Promoted to **Team Lead within the first year** due to ownership of QA processes and automation initiatives  
+
 ---
 
 ## 📈 GitHub Insights
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalwaris&theme=radical" alt="Daniyal GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalwaris&layout=compact&theme=radical" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniyalwaris&theme=tokyonight&hide_border=true&stroke=7c6be8&ring=7c6be8&fire=7c6be8&currStreakLabel=7c6be8" width="100%"/>
 </div>
 
----
+<br/>
 
-## 🚀 Repository Topics Highlights
-
-![QA Automation](https://img.shields.io/badge/QA%20Automation-5-green?style=for-the-badge)
-![Performance Testing](https://img.shields.io/badge/Performance%20Testing-2-orange?style=for-the-badge)
-![CI/CD Integration](https://img.shields.io/badge/CI%2FCD-4-blue?style=for-the-badge)
-![Security Testing](https://img.shields.io/badge/Security%20Testing-1-red?style=for-the-badge)
-![Test Frameworks](https://img.shields.io/badge/Test%20Frameworks-3-purple?style=for-the-badge)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyalwaris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="155"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalwaris&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="155"/>
+</div>
 
 ---
 
 ## 🤝 Let’s Collaborate
 
 <p align="center">
-  <a href="https://linkedin.com/in/daniyalwaris" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="45" style="margin-right: 20px; vertical-align: middle;" title="Linkedin"/></a>
-  <a href="mailto:daniyalwaris92@gmail.com"><img src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-02-1024.png" alt="Email" height="45" style="margin-right: 20px; vertical-align: middle;" title="Gmail"/></a>
+  <a href="https://linkedin.com/in/daniyalwaris" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="45" title="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:daniyalwaris92@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="45" title="Email" />
+  </a>
 </p>
 
-💬 **Let's chat testing, automation, or futuristic QA strategies!**  
+<p align="center">
+  💬 <strong>Let’s talk about testing, automation, CI/CD, and building reliable systems.</strong>
+</p>
 
 ---
 
-
-      
-          
+<p align="center">
+  <em>“Good QA finds bugs. Great QA prevents them.”</em>
+</p>
