@@ -137,37 +137,45 @@ flowchart LR
 ## 🛠️ Tech Stack
 
 ### 🧪 Frameworks & Tools
-
-![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge\&logo=selenium)
-![Playwright](https://img.shields.io/badge/Playwright-black?style=for-the-badge\&logo=playwright)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
-![k6](https://img.shields.io/badge/k6-purple?style=for-the-badge\&logo=k6)
+![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium)
+![Playwright](https://img.shields.io/badge/Playwright-black?style=for-the-badge&logo=playwright)
+![k6](https://img.shields.io/badge/k6-purple?style=for-the-badge&logo=k6)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
 ![TestComplete](https://img.shields.io/badge/TestComplete-blue?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![SoapUI](https://img.shields.io/badge/SoapUI-darkgreen?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-red?style=for-the-badge&logo=apachejmeter)
 
 ### 💻 Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
+### 🔄 CI/CD & Version Control
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-blue?style=for-the-badge&logo=azuredevops)
+![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-### 🔄 CI/CD & DevOps
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=googlecloud)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge\&logo=jenkins)
-![Azure DevOps](https://img.shields.io/badge/Azure-blue?style=for-the-badge\&logo=azuredevops)
-![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge\&logo=gitlab)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+### 📈 Monitoring & Reporting
+![Kibana](https://img.shields.io/badge/Kibana-yellow?style=for-the-badge&logo=elastic)
+![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-red?style=for-the-badge&logo=prometheus)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-black?style=for-the-badge)
 
-### ☁️ Cloud
-
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge\&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-blue?style=for-the-badge\&logo=googlecloud)
-
-### 📊 Monitoring & Observability
-
-![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge\&logo=grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-red?style=for-the-badge\&logo=prometheus)
-![Kibana](https://img.shields.io/badge/Kibana-yellow?style=for-the-badge\&logo=elastic)
+### 📋 QA Tools & Test Reporting
+![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
+![TestRail](https://img.shields.io/badge/TestRail-grey?style=for-the-badge)
+![Allure](https://img.shields.io/badge/Allure-Report-purple?style=for-the-badge)
+![Xray](https://img.shields.io/badge/Xray-Test%20Management-blue?style=for-the-badge)
 
 ---
 ## 🏆 Certifications
