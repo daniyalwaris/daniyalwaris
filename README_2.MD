@@ -142,8 +142,6 @@ flowchart LR
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
 
----
-
 🔹 **Test Automation & Tools:**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=white)
@@ -153,8 +151,6 @@ flowchart LR
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 ![TestComplete](https://img.shields.io/badge/TestComplete-0052CC?style=flat-square)
 
----
-
 🔹 **CI/CD & Version Control:**
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
@@ -162,14 +158,10 @@ flowchart LR
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
 🔹 **Cloud & Infrastructure:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
----
 
 🔹 **Monitoring & Observability:**
 ![Kibana](https://img.shields.io/badge/Kibana-FEC514?style=flat-square&logo=elastic&logoColor=black)
@@ -177,14 +169,14 @@ flowchart LR
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-000000?style=flat-square)
 
----
-
 🔹 **QA & Test Management:**
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-4A4A4A?style=flat-square)
 ![Allure](https://img.shields.io/badge/Allure-8A2BE2?style=flat-square)
 ![Xray](https://img.shields.io/badge/Xray-1F6FEB?style=flat-square)
+
 ---
+
 ## 🏆 Certifications
 
 <table>
