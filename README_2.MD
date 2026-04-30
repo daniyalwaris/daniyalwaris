@@ -9,12 +9,6 @@
   🧪 Automated Testing • 🔍 Quality Assurance • 🔄 CI/CD Pipelines • 📊 Monitoring & System Reliability
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Quality%20Engineering-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialty-Test%20Automation-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Certified-ISTQB%20CTFL-orange?style=for-the-badge" />
-</p>
-
 ---
 
 ## 🚀 About Me
