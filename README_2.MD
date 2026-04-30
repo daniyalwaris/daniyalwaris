@@ -48,75 +48,93 @@ If releases fail → automation is insufficient.
 🧪 **Building high-coverage test suites** | 🤝 **Aligning QA with DevOps pipelines** | 📊 **Enabling stable, high-confidence releases** | ✨ **Driving quality through test strategy and automation**
 
 <table>
-  <tr>
-    <td align="center" width="320">
-      <img src="https://cdn-icons-png.flaticon.com/128/18573/18573703.png" width="45"/><br>
-      <strong>Test Automation & Framework Design</strong><br><br>
-      <div align="left">
-        • Scalable automation frameworks<br>
-        • Cross-browser & cross-platform testing<br>
-        • UI/API integration in CI pipelines<br>
-        • Improved regression reliability
-      </div>
-    </td>
+<tr>
+<td align="center" width="320">
 
-    <td align="center" width="320">
-      <img src="https://cdn-icons-png.flaticon.com/128/3281/3281329.png" width="45"/><br>
-      <strong>Manual & Exploratory Testing</strong><br><br>
-      <div align="left">
-        • Test cycles across web, mobile & hardware<br>
-        • UAT & exploratory testing leadership<br>
-        • Test cases & traceability management<br>
-        • Agile QA ownership & planning
-      </div>
-    </td>
+<img src="https://cdn-icons-png.flaticon.com/128/18573/18573703.png" width="45"/><br>
+<strong>Test Automation & Framework Design</strong><br><br>
 
-    <td align="center" width="320">
-      <img src="https://cdn-icons-png.flaticon.com/128/11518/11518711.png" width="45"/><br>
-      <strong>CI/CD & DevOps Integration</strong><br><br>
-      <div align="left">
-        • Automated testing in pipelines<br>
-        • Reporting & dashboards setup<br>
-        • Test environment collaboration<br>
-        • Parallel execution optimization
-      </div>
-    </td>
-  </tr>
+<div align="left">
+• Scalable automation frameworks<br>
+• Cross-browser & cross-platform testing<br>
+• UI/API integration in CI pipelines<br>
+• Improved regression reliability
+</div>
 
-  <tr>
-    <td align="center" width="320">
-      <img src="https://cdn-icons-png.flaticon.com/128/18889/18889881.png" width="45"/><br>
-      <strong>API & Integration Validation</strong><br><br>
-      <div align="left">
-        • REST API validation end-to-end<br>
-        • Microservices integration testing<br>
-        • Contract & schema validation<br>
-        • Mocking & stubbing dependencies
-      </div>
-    </td>
+</td>
 
-    <td align="center" width="320">
-      <img src="https://cdn-icons-png.flaticon.com/128/15165/15165488.png" width="45"/><br>
-      <strong>Quality Monitoring & Reporting</strong><br><br>
-      <div align="left">
-        • Release readiness & defect tracking<br>
-        • Root cause & triage collaboration<br>
-        • Stakeholder reporting & insights<br>
-        • Documentation & traceability
-      </div>
-    </td>
+<td align="center" width="320">
 
-    <td align="center" width="320">
-      <img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="45"/><br>
-      <strong>Performance & Security Awareness</strong><br><br>
-      <div align="left">
-        • Performance & scalability testing<br>
-        • Security-focused validation cycles<br>
-        • Vulnerability & bottleneck reporting<br>
-        • Load & stress testing scenarios
-      </div>
-    </td>
-  </tr>
+<img src="https://cdn-icons-png.flaticon.com/128/3281/3281329.png" width="45"/><br>
+<strong>Manual & Exploratory Testing</strong><br><br>
+
+<div align="left">
+• Test cycles across web, mobile & hardware<br>
+• UAT & exploratory testing leadership<br>
+• Test cases & traceability management<br>
+• Agile QA ownership & planning
+</div>
+
+</td>
+
+<td align="center" width="320">
+
+<img src="https://cdn-icons-png.flaticon.com/128/11518/11518711.png" width="45"/><br>
+<strong>CI/CD & DevOps Integration</strong><br><br>
+
+<div align="left">
+• Automated testing in pipelines<br>
+• Reporting & dashboards setup<br>
+• Test environment collaboration<br>
+• Parallel execution optimization
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="320">
+
+<img src="https://cdn-icons-png.flaticon.com/128/18889/18889881.png" width="45"/><br>
+<strong>API & Integration Validation</strong><br><br>
+
+<div align="left">
+• REST API validation end-to-end<br>
+• Microservices integration testing<br>
+• Contract & schema validation<br>
+• Mocking & stubbing dependencies
+</div>
+
+</td>
+
+<td align="center" width="320">
+
+<img src="https://cdn-icons-png.flaticon.com/128/15165/15165488.png" width="45"/><br>
+<strong>Quality Monitoring & Reporting</strong><br><br>
+
+<div align="left">
+• Release readiness & defect tracking<br>
+• Root cause & triage collaboration<br>
+• Stakeholder reporting & insights<br>
+• Documentation & traceability
+</div>
+
+</td>
+
+<td align="center" width="320">
+
+<img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="45"/><br>
+<strong>Performance & Security Awareness</strong><br><br>
+
+<div align="left">
+• Performance & scalability testing<br>
+• Security-focused validation cycles<br>
+• Vulnerability & bottleneck reporting<br>
+• Load & stress testing scenarios
+</div>
+
+</td>
+</tr>
 </table>
 
 ---
