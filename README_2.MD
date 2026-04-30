@@ -43,7 +43,6 @@ If releases fail → automation is insufficient.
 ```
 
 ---
-
 ## 💼 What I Do
 
 🧪 **Building high-coverage test suites** | 🤝 **Aligning QA with DevOps pipelines** | 📊 **Enabling stable, high-confidence releases** | ✨ **Driving quality through test strategy and automation**
