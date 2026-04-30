@@ -282,18 +282,6 @@ I focus on:
 
 ---
 
-## 🚀 Repository Topics Highlights
-
-<p align="left">
-  <img src="https://img.shields.io/badge/QA%20Automation-Advanced-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance%20Testing-Hands--on-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Integrated-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security%20Testing-Aware-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Test%20Frameworks-Scalable-purple?style=for-the-badge" />
-</p>
-
----
-
 ## 🤝 Let’s Collaborate
 
 <p align="center">
