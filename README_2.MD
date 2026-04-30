@@ -231,6 +231,7 @@ If releases fail → automation is insufficient.
     </tr>
   </tbody>
 </table>
+
 ---
 
 ## 🚀 What Sets Me Apart
@@ -247,15 +248,6 @@ I focus on:
 * improving **system reliability**
 * building **testable architectures**
 * pushing quality earlier into the development lifecycle
-
----
-
-## 🔬 Current Focus
-
-* Scaling automation for complex systems
-* Improving CI pipeline speed and stability
-* Bringing observability into QA workflows
-* Exploring AI-assisted testing and smarter quality signals
 
 ---
 
