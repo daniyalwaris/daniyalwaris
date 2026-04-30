@@ -135,56 +135,55 @@ flowchart LR
 ---
 ## 🛠️ Tech Stack
 
-### 🧪 Frameworks & Tools
-![Selenium](https://img.shields.io/badge/Selenium-2E7D32?style=flat-square&logo=selenium&logoColor=white)
+🔹 **Languages & Scripting:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
+
+---
+
+🔹 **Test Automation & Tools:**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7B1FA2?style=flat-square&logo=k6&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black)
-![TestComplete](https://img.shields.io/badge/TestComplete-455A64?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-F57C00?style=flat-square&logo=postman&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-1B5E20?style=flat-square)
-![JMeter](https://img.shields.io/badge/JMeter-D32F2F?style=flat-square&logo=apachejmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6DB33F?style=flat-square)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![TestComplete](https://img.shields.io/badge/TestComplete-0052CC?style=flat-square)
 
 ---
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-1565C0?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F9A825?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-C62828?style=flat-square&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1565C0?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-6A1B9A?style=flat-square&logo=csharp&logoColor=white)
+🔹 **CI/CD & Version Control:**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🔄 CI/CD & Version Control
-![Jenkins](https://img.shields.io/badge/Jenkins-D84315?style=flat-square&logo=jenkins&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-1565C0?style=flat-square&logo=azuredevops&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-F4511E?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-212121?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-D84315?style=flat-square&logo=git&logoColor=white)
+🔹 **Cloud & Infrastructure:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-212121?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-1565C0?style=flat-square&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1565C0?style=flat-square&logo=kubernetes&logoColor=white)
+🔹 **Monitoring & Observability:**
+![Kibana](https://img.shields.io/badge/Kibana-FEC514?style=flat-square&logo=elastic&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-000000?style=flat-square)
 
 ---
 
-### 📈 Monitoring & Reporting
-![Kibana](https://img.shields.io/badge/Kibana-F9A825?style=flat-square&logo=elastic&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F57C00?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-D84315?style=flat-square&logo=prometheus&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-212121?style=flat-square)
-
----
-
-### 📋 QA Tools & Test Reporting
-![Jira](https://img.shields.io/badge/Jira-1565C0?style=flat-square&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-455A64?style=flat-square)
-![Allure](https://img.shields.io/badge/Allure-6A1B9A?style=flat-square)
-![Xray](https://img.shields.io/badge/Xray-1565C0?style=flat-square)
+🔹 **QA & Test Management:**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-4A4A4A?style=flat-square)
+![Allure](https://img.shields.io/badge/Allure-8A2BE2?style=flat-square)
+![Xray](https://img.shields.io/badge/Xray-1F6FEB?style=flat-square)
 ---
 ## 🏆 Certifications
 
