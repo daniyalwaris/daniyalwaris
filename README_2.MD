@@ -195,7 +195,7 @@ If releases fail → automation is insufficient.
     <tr>
       <td><strong>Core QA</strong></td>
       <td>
-        • ISTQB Certified Tester Foundation Level (CTFL)<br>
+        • <strong>ISTQB Certified Tester Foundation Level (CTFL)</strong><br>
         • Become a Software Tester<br>
         • Test Automation Foundations<br>
         • Programming Foundations: Software Testing/QA<br>
@@ -205,7 +205,7 @@ If releases fail → automation is insufficient.
     <tr>
       <td><strong>Test Automation & Tools</strong></td>
       <td>
-        • Playwright 101 (LambdaTest)<br>
+        • <strong>Playwright 101 (LambdaTest)</strong><br>
         • Become a Test Automation Engineer<br>
         • Selenium WebDriver with C#<br>
         • Learning Selenium<br>
