@@ -170,47 +170,55 @@ flowchart LR
 ![Kibana](https://img.shields.io/badge/Kibana-yellow?style=for-the-badge\&logo=elastic)
 
 ---
-
 ## 🏆 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/QA-Foundations-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-Tools-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agile-Scrum-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DevOps-Cloud-purple?style=for-the-badge" />
-</p>
-
-### 🎯 Foundational QA
-
-* Certified Tester Foundation Level (CTFL)
-* Become a Software Tester
-* Test Automation Foundations
-* Programming Foundations: Software Testing / QA
-* Behavior-Driven Development
-
-### 🤖 Test Automation & Tools
-
-* Become a Test Automation Engineer
-* Selenium WebDriver with C#
-* Learning Selenium
-* Java: Testing with JUnit
-* JMeter: Performance and Load Testing
-* API Test Automation with SoapUI
-* Scripting for Testers
-
-### 🔄 Agile & Project QA
-
-* Scrum Fundamentals Certified (SFC)
-* Scrum for Professionals
-* Agile Foundations / Agile Testing / Scrum: The Basics
-* Project Management Foundations: Quality
-
-### ☁️ DevOps & Cloud
-
-* Introduction to Kubernetes (LFS158)
-
-> Continuous learning is part of how I build better quality systems.
-
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Certifications</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Foundational QA</strong></td>
+      <td>
+        • Certified Tester Foundation Level (CTFL)<br>
+        • Become a Software Tester<br>
+        • Test Automation Foundations<br>
+        • Programming Foundations: Software Testing/QA<br>
+        • Behavior-Driven Development
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Test Automation & Tools</strong></td>
+      <td>
+        • Become a Test Automation Engineer<br>
+        • Selenium WebDriver with C#<br>
+        • Learning Selenium<br>
+        • Java: Testing with JUnit<br>
+        • JMeter: Performance and Load Testing<br>
+        • API Test Automation with SoapUI<br>
+        • Scripting for Testers
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Agile & Project QA</strong></td>
+      <td>
+        • Scrum Fundamentals Certified (SFC)<br>
+        • Scrums for Professional<br>
+        • Agile Foundations / Agile Testing / Scrum: The Basics<br>
+        • Project Management Foundations: Quality
+      </td>
+    </tr>
+    <tr>
+      <td><strong>DevOps & Cloud</strong></td>
+      <td>
+        • Introduction to Kubernetes (LFS158)
+      </td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 🚀 What Sets Me Apart
