@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Daniyal Waris</h1>
 
 <p align="center">
-  <em><strong>QA Engineer | Automation Architect | ISTQB-Certified Test Specialist</strong></em><br/>
+  <em><strong>QA Engineer | Test Automation Engineer |  Test Specialist  | ISTQB-Certified</strong></em><br/>
   🧪 Automated Testing • 🔍 Quality Assurance • 🔄 CI/CD Pipelines • 📊 Observability & Reliability
 </p>
 
