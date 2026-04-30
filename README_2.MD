@@ -48,49 +48,73 @@ If releases fail → automation is insufficient.
 
 🧪 **Building high-coverage test suites** | 🤝 **Aligning QA with DevOps pipelines** | 📊 **Enabling stable, high-confidence releases** | ✨ **Driving quality through test strategy and automation**
 
----
 
-### 🧪 Test Automation & Framework Design
-
-📌 Designed and maintained scalable automation frameworks
-📌 Enabled cross-browser and cross-platform testing
-📌 Integrated UI/API tests in CI pipelines
-📌 Increased regression coverage and test reliability
-
-### 🔍 Manual & Exploratory Testing
-
-🔍 Planned and executed test cycles across web, mobile, and hardware
-🧭 Led UAT and exploratory testing aligned with business goals
-📝 Created and maintained test cases, checklists, and traceability
-🧠 Contributed to sprint planning, QA sign-offs, and agile QA ownership
-
-### 🔄 CI/CD & DevOps Integration
-
-🔄 Embedded automated tests into build pipelines
-📈 Set up test result reporting and dashboarding
-🛠️ Collaborated on test environment setup & maintenance
-⏱️ Implemented test parallelization to reduce feedback loops
-
-### 🔗 API & Integration Validation
-
-🔗 Validated REST endpoints end-to-end
-⚙️ Verified integration between microservices and external systems
-🧾 Conducted contract and schema-based testing
-🚦 Simulated dependent services using mocks/stubs
-
-### 📊 Quality Monitoring & Reporting
-
-📊 Monitored release readiness and defect trends
-🧩 Collaborated in triage and root cause analysis
-📋 Shared test status and release health with stakeholders
-📂 Maintained test documentation and traceability
-
-### 🚀 Performance & Security Awareness
-
-🚀 Executed performance testing to benchmark scalability
-🔐 Participated in security-focused test cycles
-🧯 Reported vulnerabilities and system bottlenecks
-🧪 Ran stress/load test scenarios under peak usage
+<table>
+  <tr>
+    <td align="center" width="320" height="220">
+      <img src="https://cdn-icons-png.flaticon.com/128/18573/18573703.png" width="50" alt="Automation Icon"/><br>
+      <strong>Test Automation & Framework Design</strong><br><br>
+      <div align="left">
+        📌 Designed and maintained scalable automation frameworks<br>
+        📌 Enabled cross-browser and cross-platform testing<br>
+        📌 Integrated UI/API tests in CI pipelines<br>
+        📌 Increased regression coverage and test reliability
+      </div>
+    </td>
+    <td align="center" width="320" height="220">
+      <img src="https://cdn-icons-png.flaticon.com/128/3281/3281329.png" width="50" alt="Manual Testing Icon"/><br>
+      <strong>Manual & Exploratory Testing</strong><br><br>
+      <div align="left">
+        🔍 Planned and executed test cycles across web, mobile, and hardware<br>
+        🧭 Led UAT and exploratory testing aligned with business goals<br>
+        📝 Created and maintained test cases, checklists, and traceability<br>
+        🧠 Contributed to sprint planning, QA sign-offs, and agile QA ownership
+      </div>
+    </td>
+    <td align="center" width="320" height="220">
+      <img src="https://cdn-icons-png.flaticon.com/128/11518/11518711.png" width="50" alt="CI/CD Icon"/><br>
+      <strong>CI/CD & DevOps Integration</strong><br><br>
+      <div align="left">
+        🔄 Embedded automated tests into build pipelines<br>
+        📈 Set up test result reporting and dashboarding<br>
+        🛠️ Collaborated on test environment setup & maintenance<br>
+        ⏱️ Implemented test parallelisation to reduce feedback loops
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="320" height="220">
+      <img src="https://cdn-icons-png.flaticon.com/128/18889/18889881.png" width="50" alt="API Testing Icon"/><br>
+      <strong>API & Integration Validation</strong><br><br>
+      <div align="left">
+        🔗 Validated REST endpoints end-to-end<br>
+        ⚙️ Verified integration between microservices and external systems<br>
+        🧾 Conducted contract and schema-based testing<br>
+        🚦 Simulated dependent services using mocks/stubs
+      </div>
+    </td>
+    <td align="center" width="320" height="220">
+      <img src="https://cdn-icons-png.flaticon.com/128/15165/15165488.png" width="50" alt="Monitoring Icon"/><br>
+      <strong>Quality Monitoring & Reporting</strong><br><br>
+      <div align="left">
+        📊 Monitored release readiness and defect trends<br>
+        🧩 Collaborated in triage and root cause analysis<br>
+        📋 Shared test status and release health with stakeholders<br>
+        📂 Maintained test documentation and traceability
+      </div>
+    </td>
+    <td align="center" width="320" height="220">
+      <img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="50" alt="Security Icon"/><br>
+      <strong>Performance & Security Awareness</strong><br><br>
+      <div align="left">
+        🚀 Executed performance testing to benchmark scalability<br>
+        🔐 Participated in security-focused test cycles<br>
+        🧯 Reported vulnerabilities and system bottlenecks<br>
+        🧪 Ran stress/load test scenarios under peak usage
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
