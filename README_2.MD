@@ -6,7 +6,7 @@
 
 <p align="center">
   <em><strong>QA Engineer | Test Automation Engineer |  Test Specialist  | ISTQB-Certified</strong></em><br/>
-  🧪 Automated Testing • 🔍 Quality Assurance • 🔄 CI/CD Pipelines • 📊 Observability & Reliability
+  🧪 Automated Testing • 🔍 Quality Assurance • 🔄 CI/CD Pipelines • 📊 Monitoring & System Reliability
 </p>
 
 <p align="center">
@@ -24,10 +24,12 @@ From exploratory testing to automation architecture, I work on making software *
 
 ### 🔑 Highlights
 
-* 🏅 ISTQB Certified (CTFL) with 6+ years in QA, automation & integration
 * 🛠️ Built and improved automation frameworks for web, mobile, desktop, and embedded platforms
 * 💡 Passionate about CI/CD, observability, and improving quality upstream
 * 🤝 Strong believer in connecting **QA, Dev, and DevOps** into one quality system
+* 🔗 Experience across digital health, mobile forensics, and financial systems  
+* 📱 Testing across Android, iOS, desktop, and embedded platforms  
+* ⚙️ Validating hardware-software integrations in complex systems  
 
 ---
 
@@ -124,13 +126,13 @@ If releases fail → automation is insufficient.
 <td align="center" width="320">
 
 <img src="https://cdn-icons-png.flaticon.com/128/2910/2910795.png" width="45"/><br>
-<strong>Performance & Security Awareness</strong><br><br>
+<strong>Performance & Stability Testing</strong><br><br>
 
 <div align="left">
-• Performance & scalability testing<br>
-• Security-focused validation cycles<br>
-• Vulnerability & bottleneck reporting<br>
-• Load & stress testing scenarios
+• Performance and load testing (k6)<br>
+• Stability testing for high-volume systems<br>
+• Identifying bottlenecks and system limits<br>
+• Supporting reliable system performance
 </div>
 
 </td>
@@ -179,6 +181,9 @@ If releases fail → automation is insufficient.
 ![TestRail](https://img.shields.io/badge/TestRail-4A4A4A?style=flat-square)
 ![Allure](https://img.shields.io/badge/Allure-8A2BE2?style=flat-square)
 ![Xray](https://img.shields.io/badge/Xray-1F6FEB?style=flat-square)
+
+🔹 **Data Validation:**  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
 
 ---
 
@@ -249,6 +254,15 @@ I focus on:
 * improving **system reliability**
 * building **testable architectures**
 * pushing quality earlier into the development lifecycle
+
+---
+
+## 📈 Impact & Contributions
+
+- 🚀 Reduced manual testing effort by **~40%** by integrating automation into CI/CD pipelines  
+- 🧪 Achieved **~60% test coverage** by building a hybrid automation framework (C# + TestComplete)  
+- 📈 Improved regression reliability and reduced feedback cycles across multiple systems  
+- 👥 Promoted to **Team Lead within the first year** due to ownership of QA processes and automation initiatives  
 
 ---
 
